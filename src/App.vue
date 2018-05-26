@@ -6,17 +6,21 @@
 
 <script>
 export default {
-  name: 'App'
-}
+  name: "App"
+};
 </script>
 
 <style>
+body {
+  background-color: #d8d8d8;
+}
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+  font-family: -apple-system, "Helvetica Neue", Helvetica, "Nimbus Sans L",
+    Arial, "Liberation Sans", "PingFang SC", "Hiragino Sans GB",
+    "Source Han Sans CN", "Source Han Sans SC", "Microsoft YaHei",
+    "Wenquanyi Micro Hei", "WenQuanYi Zen Hei", "ST Heiti", SimHei,
+    "WenQuanYi Zen Hei Sharp", sans-serif;
+    width: 100vw;
+    height: 100vh;
 }
 </style>
