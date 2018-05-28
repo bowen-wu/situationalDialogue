@@ -27,7 +27,27 @@
         </div>
     </aside>
     <div class="content">
-
+      <div class="header">
+        <div class="text">
+          客房服务员
+        </div>
+        <div class="online"></div>
+      </div>
+      <div class="container">
+        <ul class="message-wrapper">
+          <li class="message" v-for="message in dialogue" :class="message.type === 0 ? 'user' : ''">
+            <div class="avatar-wrapper">
+              <img :src="message.avatarSrc" alt="" class="icon">
+            </div>
+            <div class="text">{{message.msg}}</div>
+            <div class="switch">
+              <div class="img-wrapper">
+                <img :src="switchSrc" alt="" class="icon">
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
     </div>
   </div>
 </template>
@@ -37,6 +57,7 @@ export default {
   name: "HelloWorld",
   data() {
     return {
+      switchSrc: "../assets/img/bottom.png",
       tabList: [
         {
           imgSrc:
@@ -88,8 +109,70 @@ export default {
             "https://images.unsplash.com/photo-1455103493930-a116f655b6c5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d1ddc1fc1799c2f28d379be5f38e33ad&auto=format&fit=crop&w=500&q=60",
           title: "next"
         }
-      ]
+      ],
+      dialogue: [
+        {
+          avatarSrc:
+            "https://images.unsplash.com/photo-1455103493930-a116f655b6c5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d1ddc1fc1799c2f28d379be5f38e33ad&auto=format&fit=crop&w=500&q=60",
+          msg:
+            "啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦",
+          type: 1
+        },
+        {
+          avatarSrc:
+            "https://images.unsplash.com/photo-1455103493930-a116f655b6c5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d1ddc1fc1799c2f28d379be5f38e33ad&auto=format&fit=crop&w=500&q=60",
+          msg: "啦啦啦啦啦啦啦啦啦嘻嘻嘻",
+          type: 0
+        }
+      ],
+      test: null
     };
+  },
+  created() {
+    this.test = this.getFile();
+  },
+  methods: {
+    getFile() {
+      //1.声明异步请求对象：
+      let xmlHttp = null;
+      if (window.ActiveXObject) {
+        // IE6, IE5 浏览器执行代码
+        xmlHttp = new ActiveXObject("Microsoft.XMLHTTP");
+      } else if (window.XMLHttpRequest) {
+        // IE7+, Firefox, Chrome, Opera, Safari 浏览器执行代码
+        xmlHttp = new XMLHttpRequest();
+      }
+      //2.如果实例化成功，就调用open（）方法：
+      if (xmlHttp !== null) {
+        xmlHttp.open("get", `../../static/script`, true);
+        //设置回调函数
+        xmlHttp.onreadystatechange = function() {
+          // 4表示执行完成  200表示执行成功
+          if (xmlHttp.readyState === 4 && xmlHttp.status === 200) {
+            console.log('xmlHttp.responseText', xmlHttp.responseText)
+            return xmlHttp.responseText;
+          }
+        };
+        xmlHttp.send();
+      }
+    },
+    getFileContent(fileName) {
+      let xmlHttp = null;
+      if (window.ActiveXObject) {
+        xmlHttp = new ActiveXObject("Microsoft.XMLHTTP");
+      } else if (window.XMLHttpRequest) {
+        xmlHttp = new XMLHttpRequest();
+      }
+      if (xmlHttp !== null) {
+        xmlHttp.open("get", `../assets/script/${fileName}.md`, true);
+        xmlHttp.onreadystatechange = function() {
+          if (xmlHttp.readyState === 4 && xmlHttp.status === 200) {
+            return xmlHttp.responseText;
+          }
+        };
+        xmlHttp.send();
+      }
+    }
   }
 };
 </script>
@@ -129,9 +212,9 @@ img.icon {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  padding: 10px 80px;
+  padding: 10px 180px;
   overflow: hidden;
-  @include flex(flex-start, center);
+  @include flex(flex-start, flex-start);
 }
 aside {
   @include flex(center, flex-start, column);
@@ -142,7 +225,7 @@ aside {
     background-color: #e45050;
     .user {
       @include flex(flex-start, center);
-      margin-bottom: 10px;
+      margin-bottom: 16px;
       .avatar-wrapper {
         @include widthHeight(54px, 54px);
         margin-right: 8px;
@@ -178,7 +261,7 @@ aside {
     flex: 1;
     width: 100%;
     background-color: #363e47;
-    max-height: 428px;
+    max-height: 452px;
     .tab-wrapper {
       overflow: auto;
       &::-webkit-scrollbar {
@@ -204,6 +287,84 @@ aside {
         .title {
           @include fontLineColor(20px, 26px, #fff);
           @include textOverflow(120px);
+        }
+      }
+    }
+  }
+}
+.content {
+  flex: 1;
+  background-color: #fafafa;
+  border: 1px solid #cccccc;
+  height: 100%;
+  @include flex(flex-start, flex-start, column);
+  .header {
+    @include flex(flex-start);
+    width: 100%;
+    padding: 16px 12px;
+    border-bottom: 1px solid #e2e2e2;
+    .text {
+      @include fontLineColor(16px, 24px, #262d34);
+      margin-right: 8px;
+    }
+    .online {
+      border: 4px solid #70d672;
+      border-radius: 50%;
+    }
+  }
+  .container {
+    padding: 20px 10px;
+    width: 100%;
+    max-height: 523px;
+    .message-wrapper {
+      overflow: auto;
+      &::-webkit-scrollbar {
+        display: none;
+      }
+      height: 100%;
+      .message {
+        @include flex(flex-start, flex-start);
+        margin-bottom: 16px;
+        &.user {
+          flex-direction: row-reverse;
+          .avatar-wrapper {
+            margin-left: 10px;
+          }
+          .text::before {
+            left: initial;
+            right: -16px;
+            border-left-color: #e8e8e8;
+            border-right-color: transparent;
+          }
+        }
+        .avatar-wrapper {
+          @include widthHeight(34px, 34px);
+          margin-right: 10px;
+          margin-top: 4px;
+        }
+        .text {
+          @include fontLineColor(16px, 22px, #333);
+          padding: 8px 16px 8px 12px;
+          background-color: #e8e8e8;
+          border-radius: 8px;
+          max-width: 540px;
+          position: relative;
+          &::before {
+            content: "";
+            display: block;
+            border: 8px solid transparent;
+            border-right-color: #e8e8e8;
+            position: absolute;
+            top: 20px;
+            left: -16px;
+            transform: translateY(-50%);
+          }
+        }
+        .switch {
+          margin-top: 12px;
+          .img-wrapper {
+            @include widthHeight(18px, 18px);
+          }
         }
       }
     }
