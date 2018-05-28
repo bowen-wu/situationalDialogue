@@ -17,9 +17,9 @@
         </div>
         <div class="tabList">
             <ul class="tab-wrapper">
-                <li class="tab" v-for="tab in tabList">
+                <li class="tab" v-for="tab in tabList" @click="getFileContent(tab.title)">
                     <div class="img-wrapper">
-                        <img :src="tab.imgSrc" alt="" class="icon">
+                        <img :src="tab.theme" alt="" class="icon">
                     </div>
                     <div class="title">{{tab.title}}</div>
                 </li>
@@ -37,14 +37,14 @@
         <ul class="message-wrapper">
           <li class="message" v-for="message in dialogue" :class="message.type === 0 ? 'user' : ''">
             <div class="avatar-wrapper">
-              <img :src="message.avatarSrc" alt="" class="icon">
+              <img :src="message.type === 0 ? dialogue.user : dialogue.person" alt="" class="icon">
             </div>
             <div class="text">{{message.msg}}</div>
-            <div class="switch">
+            <!-- <div class="switch">
               <div class="img-wrapper">
                 <img :src="switchSrc" alt="" class="icon">
               </div>
-            </div>
+            </div> -->
           </li>
         </ul>
       </div>
@@ -60,103 +60,43 @@ export default {
       switchSrc: "../assets/img/bottom.png",
       tabList: [
         {
-          imgSrc:
-            "https://images.unsplash.com/photo-1455103493930-a116f655b6c5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d1ddc1fc1799c2f28d379be5f38e33ad&auto=format&fit=crop&w=500&q=60",
-          title: "酒店"
+          theme:
+            "https://images.unsplash.com/photo-1505492537188-de71a52767cb?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b4bbefaa3c24a65fcf0d20ec3872fe1a&auto=format&fit=crop&w=500&q=60",
+          title: "Hotel"
         },
         {
-          imgSrc:
-            "https://images.unsplash.com/photo-1455103493930-a116f655b6c5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d1ddc1fc1799c2f28d379be5f38e33ad&auto=format&fit=crop&w=500&q=60",
-          title: "啦啦啦"
-        },
-        {
-          imgSrc:
-            "https://images.unsplash.com/photo-1455103493930-a116f655b6c5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d1ddc1fc1799c2f28d379be5f38e33ad&auto=format&fit=crop&w=500&q=60",
-          title: "next"
-        },
-        {
-          imgSrc:
-            "https://images.unsplash.com/photo-1455103493930-a116f655b6c5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d1ddc1fc1799c2f28d379be5f38e33ad&auto=format&fit=crop&w=500&q=60",
-          title: "next"
-        },
-        {
-          imgSrc:
-            "https://images.unsplash.com/photo-1455103493930-a116f655b6c5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d1ddc1fc1799c2f28d379be5f38e33ad&auto=format&fit=crop&w=500&q=60",
-          title: "next"
-        },
-        {
-          imgSrc:
-            "https://images.unsplash.com/photo-1455103493930-a116f655b6c5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d1ddc1fc1799c2f28d379be5f38e33ad&auto=format&fit=crop&w=500&q=60",
-          title: "next"
-        },
-        {
-          imgSrc:
-            "https://images.unsplash.com/photo-1455103493930-a116f655b6c5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d1ddc1fc1799c2f28d379be5f38e33ad&auto=format&fit=crop&w=500&q=60",
-          title: "next"
-        },
-        {
-          imgSrc:
-            "https://images.unsplash.com/photo-1455103493930-a116f655b6c5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d1ddc1fc1799c2f28d379be5f38e33ad&auto=format&fit=crop&w=500&q=60",
-          title: "next"
-        },
-        {
-          imgSrc:
-            "https://images.unsplash.com/photo-1455103493930-a116f655b6c5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d1ddc1fc1799c2f28d379be5f38e33ad&auto=format&fit=crop&w=500&q=60",
-          title: "next"
-        },
-        {
-          imgSrc:
-            "https://images.unsplash.com/photo-1455103493930-a116f655b6c5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d1ddc1fc1799c2f28d379be5f38e33ad&auto=format&fit=crop&w=500&q=60",
-          title: "next"
+          theme: "",
+          title: "ask-the-way"
         }
       ],
-      dialogue: [
-        {
-          avatarSrc:
-            "https://images.unsplash.com/photo-1455103493930-a116f655b6c5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d1ddc1fc1799c2f28d379be5f38e33ad&auto=format&fit=crop&w=500&q=60",
-          msg:
-            "啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦",
-          type: 1
-        },
-        {
-          avatarSrc:
-            "https://images.unsplash.com/photo-1455103493930-a116f655b6c5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d1ddc1fc1799c2f28d379be5f38e33ad&auto=format&fit=crop&w=500&q=60",
-          msg: "啦啦啦啦啦啦啦啦啦嘻嘻嘻",
-          type: 0
-        }
-      ],
-      test: null
+      dialogue: {
+        // person: "",
+        // user: "",
+        // message: [
+        //   {
+        //     title: "",
+        //     content: [
+        //       {
+        //         msg: "",
+        //         type: 1
+        //       },
+        //       {
+        //         msg: "",
+        //         type: 0
+        //       }
+        //     ]
+        //   },
+        // ]
+      }
     };
   },
   created() {
-    this.test = this.getFile();
+    this.getFileContent(this.tabList[0].title);
   },
   methods: {
-    getFile() {
-      //1.声明异步请求对象：
-      let xmlHttp = null;
-      if (window.ActiveXObject) {
-        // IE6, IE5 浏览器执行代码
-        xmlHttp = new ActiveXObject("Microsoft.XMLHTTP");
-      } else if (window.XMLHttpRequest) {
-        // IE7+, Firefox, Chrome, Opera, Safari 浏览器执行代码
-        xmlHttp = new XMLHttpRequest();
-      }
-      //2.如果实例化成功，就调用open（）方法：
-      if (xmlHttp !== null) {
-        xmlHttp.open("get", `../../static/script`, true);
-        //设置回调函数
-        xmlHttp.onreadystatechange = function() {
-          // 4表示执行完成  200表示执行成功
-          if (xmlHttp.readyState === 4 && xmlHttp.status === 200) {
-            console.log('xmlHttp.responseText', xmlHttp.responseText)
-            return xmlHttp.responseText;
-          }
-        };
-        xmlHttp.send();
-      }
-    },
+    getFile() {},
     getFileContent(fileName) {
+      
       let xmlHttp = null;
       if (window.ActiveXObject) {
         xmlHttp = new ActiveXObject("Microsoft.XMLHTTP");
@@ -164,10 +104,23 @@ export default {
         xmlHttp = new XMLHttpRequest();
       }
       if (xmlHttp !== null) {
-        xmlHttp.open("get", `../assets/script/${fileName}.md`, true);
-        xmlHttp.onreadystatechange = function() {
+        xmlHttp.open("get", `../../static/script/${fileName.toLowerCase()}.txt`, true);
+        xmlHttp.onreadystatechange = () => {
           if (xmlHttp.readyState === 4 && xmlHttp.status === 200) {
-            return xmlHttp.responseText;
+            let text = xmlHttp.responseText;
+            // console.log("text", typeof text, text);
+            let img = JSON.parse(text.slice(0, text.indexOf('}')+1).trim());          
+            // console.log('img', img);
+            let {person, user} = img;
+            Object.assign(this.dialogue, {person, user});
+            let contentArr = text.slice(text.indexOf('}')+1).trim().split(/\s*##\s*/);
+            console.log('contentArr', contentArr[1])
+            contentArr.forEach((it) => {
+              if(it !== ''){
+                let title = it.split(/.*/);
+                // console.log('title', title);
+              }
+            })
           }
         };
         xmlHttp.send();
