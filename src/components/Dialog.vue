@@ -17,9 +17,9 @@
         </div>
         <div class="tabList">
             <ul class="tab-wrapper">
-                <li class="tab" v-for="tab in tabList">
+                <li class="tab" v-for="tab in tabList" @click="getFileContent(tab.title)">
                     <div class="img-wrapper">
-                        <img :src="tab.imgSrc" alt="" class="icon">
+                        <img :src="tab.theme" alt="" class="icon">
                     </div>
                     <div class="title">{{tab.title}}</div>
                 </li>
@@ -27,7 +27,27 @@
         </div>
     </aside>
     <div class="content">
-
+      <div class="header">
+        <div class="text">
+          客房服务员
+        </div>
+        <div class="online"></div>
+      </div>
+      <div class="container">
+        <ul class="message-wrapper">
+          <li class="message" v-for="message in dialogue" :class="message.type === 0 ? 'user' : ''">
+            <div class="avatar-wrapper">
+              <img :src="message.type === 0 ? dialogue.user : dialogue.person" alt="" class="icon">
+            </div>
+            <div class="text">{{message.msg}}</div>
+            <!-- <div class="switch">
+              <div class="img-wrapper">
+                <img :src="switchSrc" alt="" class="icon">
+              </div>
+            </div> -->
+          </li>
+        </ul>
+      </div>
     </div>
   </div>
 </template>
@@ -37,59 +57,75 @@ export default {
   name: "HelloWorld",
   data() {
     return {
+      switchSrc: "../assets/img/bottom.png",
       tabList: [
         {
-          imgSrc:
-            "https://images.unsplash.com/photo-1455103493930-a116f655b6c5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d1ddc1fc1799c2f28d379be5f38e33ad&auto=format&fit=crop&w=500&q=60",
-          title: "酒店"
+          theme:
+            "https://images.unsplash.com/photo-1505492537188-de71a52767cb?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b4bbefaa3c24a65fcf0d20ec3872fe1a&auto=format&fit=crop&w=500&q=60",
+          title: "Hotel"
         },
         {
-          imgSrc:
-            "https://images.unsplash.com/photo-1455103493930-a116f655b6c5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d1ddc1fc1799c2f28d379be5f38e33ad&auto=format&fit=crop&w=500&q=60",
-          title: "啦啦啦"
-        },
-        {
-          imgSrc:
-            "https://images.unsplash.com/photo-1455103493930-a116f655b6c5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d1ddc1fc1799c2f28d379be5f38e33ad&auto=format&fit=crop&w=500&q=60",
-          title: "next"
-        },
-        {
-          imgSrc:
-            "https://images.unsplash.com/photo-1455103493930-a116f655b6c5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d1ddc1fc1799c2f28d379be5f38e33ad&auto=format&fit=crop&w=500&q=60",
-          title: "next"
-        },
-        {
-          imgSrc:
-            "https://images.unsplash.com/photo-1455103493930-a116f655b6c5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d1ddc1fc1799c2f28d379be5f38e33ad&auto=format&fit=crop&w=500&q=60",
-          title: "next"
-        },
-        {
-          imgSrc:
-            "https://images.unsplash.com/photo-1455103493930-a116f655b6c5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d1ddc1fc1799c2f28d379be5f38e33ad&auto=format&fit=crop&w=500&q=60",
-          title: "next"
-        },
-        {
-          imgSrc:
-            "https://images.unsplash.com/photo-1455103493930-a116f655b6c5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d1ddc1fc1799c2f28d379be5f38e33ad&auto=format&fit=crop&w=500&q=60",
-          title: "next"
-        },
-        {
-          imgSrc:
-            "https://images.unsplash.com/photo-1455103493930-a116f655b6c5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d1ddc1fc1799c2f28d379be5f38e33ad&auto=format&fit=crop&w=500&q=60",
-          title: "next"
-        },
-        {
-          imgSrc:
-            "https://images.unsplash.com/photo-1455103493930-a116f655b6c5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d1ddc1fc1799c2f28d379be5f38e33ad&auto=format&fit=crop&w=500&q=60",
-          title: "next"
-        },
-        {
-          imgSrc:
-            "https://images.unsplash.com/photo-1455103493930-a116f655b6c5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d1ddc1fc1799c2f28d379be5f38e33ad&auto=format&fit=crop&w=500&q=60",
-          title: "next"
+          theme: "",
+          title: "ask-the-way"
         }
-      ]
+      ],
+      dialogue: {
+        // person: "",
+        // user: "",
+        // message: [
+        //   {
+        //     title: "",
+        //     content: [
+        //       {
+        //         msg: "",
+        //         type: 1
+        //       },
+        //       {
+        //         msg: "",
+        //         type: 0
+        //       }
+        //     ]
+        //   },
+        // ]
+      }
     };
+  },
+  created() {
+    this.getFileContent(this.tabList[0].title);
+  },
+  methods: {
+    getFile() {},
+    getFileContent(fileName) {
+      
+      let xmlHttp = null;
+      if (window.ActiveXObject) {
+        xmlHttp = new ActiveXObject("Microsoft.XMLHTTP");
+      } else if (window.XMLHttpRequest) {
+        xmlHttp = new XMLHttpRequest();
+      }
+      if (xmlHttp !== null) {
+        xmlHttp.open("get", `../../static/script/${fileName.toLowerCase()}.txt`, true);
+        xmlHttp.onreadystatechange = () => {
+          if (xmlHttp.readyState === 4 && xmlHttp.status === 200) {
+            let text = xmlHttp.responseText;
+            // console.log("text", typeof text, text);
+            let img = JSON.parse(text.slice(0, text.indexOf('}')+1).trim());          
+            // console.log('img', img);
+            let {person, user} = img;
+            Object.assign(this.dialogue, {person, user});
+            let contentArr = text.slice(text.indexOf('}')+1).trim().split(/\s*##\s*/);
+            console.log('contentArr', contentArr[1])
+            contentArr.forEach((it) => {
+              if(it !== ''){
+                let title = it.split(/.*/);
+                // console.log('title', title);
+              }
+            })
+          }
+        };
+        xmlHttp.send();
+      }
+    }
   }
 };
 </script>
@@ -129,9 +165,9 @@ img.icon {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  padding: 10px 80px;
+  padding: 10px 180px;
   overflow: hidden;
-  @include flex(flex-start, center);
+  @include flex(flex-start, flex-start);
 }
 aside {
   @include flex(center, flex-start, column);
@@ -142,7 +178,7 @@ aside {
     background-color: #e45050;
     .user {
       @include flex(flex-start, center);
-      margin-bottom: 10px;
+      margin-bottom: 16px;
       .avatar-wrapper {
         @include widthHeight(54px, 54px);
         margin-right: 8px;
@@ -178,7 +214,7 @@ aside {
     flex: 1;
     width: 100%;
     background-color: #363e47;
-    max-height: 428px;
+    max-height: 452px;
     .tab-wrapper {
       overflow: auto;
       &::-webkit-scrollbar {
@@ -204,6 +240,84 @@ aside {
         .title {
           @include fontLineColor(20px, 26px, #fff);
           @include textOverflow(120px);
+        }
+      }
+    }
+  }
+}
+.content {
+  flex: 1;
+  background-color: #fafafa;
+  border: 1px solid #cccccc;
+  height: 100%;
+  @include flex(flex-start, flex-start, column);
+  .header {
+    @include flex(flex-start);
+    width: 100%;
+    padding: 16px 12px;
+    border-bottom: 1px solid #e2e2e2;
+    .text {
+      @include fontLineColor(16px, 24px, #262d34);
+      margin-right: 8px;
+    }
+    .online {
+      border: 4px solid #70d672;
+      border-radius: 50%;
+    }
+  }
+  .container {
+    padding: 20px 10px;
+    width: 100%;
+    max-height: 523px;
+    .message-wrapper {
+      overflow: auto;
+      &::-webkit-scrollbar {
+        display: none;
+      }
+      height: 100%;
+      .message {
+        @include flex(flex-start, flex-start);
+        margin-bottom: 16px;
+        &.user {
+          flex-direction: row-reverse;
+          .avatar-wrapper {
+            margin-left: 10px;
+          }
+          .text::before {
+            left: initial;
+            right: -16px;
+            border-left-color: #e8e8e8;
+            border-right-color: transparent;
+          }
+        }
+        .avatar-wrapper {
+          @include widthHeight(34px, 34px);
+          margin-right: 10px;
+          margin-top: 4px;
+        }
+        .text {
+          @include fontLineColor(16px, 22px, #333);
+          padding: 8px 16px 8px 12px;
+          background-color: #e8e8e8;
+          border-radius: 8px;
+          max-width: 540px;
+          position: relative;
+          &::before {
+            content: "";
+            display: block;
+            border: 8px solid transparent;
+            border-right-color: #e8e8e8;
+            position: absolute;
+            top: 20px;
+            left: -16px;
+            transform: translateY(-50%);
+          }
+        }
+        .switch {
+          margin-top: 12px;
+          .img-wrapper {
+            @include widthHeight(18px, 18px);
+          }
         }
       }
     }
