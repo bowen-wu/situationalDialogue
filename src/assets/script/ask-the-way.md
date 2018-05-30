@@ -12,7 +12,7 @@
 
 - Ok, I will go there with you .（好吧，我和你一起去吧）
 
-- Thank you , sorry to troubl you .（不好意思麻烦你了）
+- Thank you , sorry to trouble you .（不好意思麻烦你了）
 
 - It’s my pleasure.（没关系）
 
@@ -40,7 +40,7 @@
 
 ## Ask the way(4)
 
-- Exause me . I wonder if you could help me . I'm looking for the museum.  (不知您能否帮我，我在找博物馆)
+- Excuse me . I wonder if you could help me . I'm looking for the museum.  (不知您能否帮我，我在找博物馆)
 
 - Boy, you are lost. it's across town.(哇，你是迷路了，它在城的那头)
 
@@ -88,7 +88,7 @@
 
 - You are so sweet , do you have any recommended food ?（你真贴心，你有什么推荐的美食吗？）
 
-- Yes , I used to go to a place called ‘those years where we had barbecuses’ （我经常去一家叫‘那些年我们一起吃串的地方’）
+- Yes , I used to go to a place called ‘those years where we had barbecues’ （我经常去一家叫‘那些年我们一起吃串的地方’）
 
 - That sounds special . （那听起来很特别）
 
