@@ -26,7 +26,7 @@
 
 * Oh, I see. Then can I buy slides and picture postcards somewhere? (恩，我知道，请问我到哪里能买到幻灯片和风景明信片呢？)
 
-- You can buy them at a souvenir shop near the exit. (你可以在出口附近的纪念品店买到。)
+- You can buy them at a souvenir shop near the exit '/'eksɪt/'. (你可以在出口附近的纪念品店买到。)
 
 ## specialties
 
