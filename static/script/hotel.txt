@@ -83,3 +83,4 @@
 - What are your rates for laundry service? (洗衣服务怎么收费)
 * Can I borrow a hair dryer? (我可以借一下吹风机吗？)
 - A wake-up call, please. (请提供叫醒服务。)
+#

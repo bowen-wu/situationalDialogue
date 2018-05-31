@@ -1,55 +1,62 @@
 <template>
-  <div class="dialog">
-    <aside>
-        <div class="info">
-            <div class="user">
-                <div class="avatar-wrapper">
-                    <img src="../assets/img/avatar.jpg" alt="" class="avatar icon">
-                </div>
-                <div class="name">Jack</div>
-            </div>
-            <div class="search">
-                <input type="text" class="search-input" placeholder="search topic">
-                <div class="search-icon-wrapper">
-                    <img src="../assets/img/search.png" alt="" class="icon">
-                </div>
-            </div>
-        </div>
-        <div class="tabList">
-            <ul class="tab-wrapper">
-                <li class="tab" v-for="tab in tabList" @click="getFileContent(tab.title)">
-                    <div class="img-wrapper">
-                        <img :src="tab.theme" alt="" class="icon">
+    <div class="dialog">
+        <aside>
+            <div class="info">
+                <div class="user">
+                    <div class="avatar-wrapper">
+                        <img src="../assets/img/avatar.jpg" alt="" class="avatar icon">
                     </div>
-                    <div class="title">{{tab.title}}</div>
-                </li>
-            </ul>
-        </div>
-    </aside>
-    <div class="content">
-      <div class="header">
-        <div class="text">
-          客房服务员
-        </div>
-        <div class="online"></div>
-      </div>
-      <div class="container">
-        <ul class="message-wrapper">
-          <li class="message" v-for="message in dialogue" :class="message.type === 0 ? 'user' : ''">
-            <div class="avatar-wrapper">
-              <img :src="message.type === 0 ? dialogue.user : dialogue.person" alt="" class="icon">
+                    <div class="name">Jack</div>
+                </div>
+                <div class="search">
+                    <input type="text" class="search-input" placeholder="search topic">
+                    <div class="search-icon-wrapper">
+                        <img src="../assets/img/search.png" alt="" class="icon">
+                    </div>
+                </div>
             </div>
-            <div class="text">{{message.msg}}</div>
-            <!-- <div class="switch">
-              <div class="img-wrapper">
-                <img :src="switchSrc" alt="" class="icon">
-              </div>
-            </div> -->
-          </li>
-        </ul>
-      </div>
+            <div class="tabList">
+                <ul class="tab-wrapper">
+                    <li class="tab" v-for="tab in tabList" @click="getFileContent(tab.title)">
+                        <div class="img-wrapper">
+                            <img :src="tab.theme" alt="" class="icon">
+                        </div>
+                        <div class="title">{{tab.title}}</div>
+                    </li>
+                </ul>
+            </div>
+        </aside>
+        <div class="content">
+            <div class="header">
+                <div class="text">
+                    客房服务员
+                </div>
+                <div class="online"></div>
+            </div>
+            <div class="container">
+                <ul class="paragraph-wrapper">
+                    <!-- {{dialogue.messageArr}}{{switchSrc}}{{dialogueContent}} -->
+                    <!-- <li class="paragraph" v-for="message in dialogue.messageArr"> -->
+                    <li class="paragraph" v-for="message in dialogueContent">
+                        <div class="title">{{message.title}}</div>
+                        <ul>
+                            <li class="message" v-for="contentItem in message.content" :class="contentItem.type === 0 ? 'user' : ''">
+                                <div class="avatar-wrapper">
+                                    <img :src="contentItem.type === 1 ? dialogue.user : dialogue.person" alt="" class="icon">
+                                </div>
+                                <div class="text">{{contentItem.msg}}</div>
+                                <!-- <div class="switch">
+                                <div class="img-wrapper">
+                                    <img :src="switchSrc" alt="" class="icon">
+                                </div>
+                                </div> -->
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
     </div>
-  </div>
 </template>
 
 <script>
@@ -65,29 +72,17 @@ export default {
           title: "Hotel"
         },
         {
-          theme: "",
+          theme:
+            "https://images.unsplash.com/photo-1508237866955-4439ca21b062?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c934f134692ab12b0c4c699c17109b6f&auto=format&fit=crop&w=500&q=60",
           title: "ask-the-way"
+        },
+        {
+          theme: "https://images.unsplash.com/photo-1519095614420-850b5671ac7f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=63ffaa8c9b9aca319b57204b5d620f56&auto=format&fit=crop&w=500&q=60",
+          title: "Tour"
         }
       ],
-      dialogue: {
-        // person: "",
-        // user: "",
-        // message: [
-        //   {
-        //     title: "",
-        //     content: [
-        //       {
-        //         msg: "",
-        //         type: 1
-        //       },
-        //       {
-        //         msg: "",
-        //         type: 0
-        //       }
-        //     ]
-        //   },
-        // ]
-      }
+      dialogue: {},
+      dialogueContent: []
     };
   },
   created() {
@@ -96,7 +91,7 @@ export default {
   methods: {
     getFile() {},
     getFileContent(fileName) {
-      
+      console.log("fileName", fileName.toLowerCase());
       let xmlHttp = null;
       if (window.ActiveXObject) {
         xmlHttp = new ActiveXObject("Microsoft.XMLHTTP");
@@ -104,27 +99,40 @@ export default {
         xmlHttp = new XMLHttpRequest();
       }
       if (xmlHttp !== null) {
-        xmlHttp.open("get", `../../static/script/${fileName.toLowerCase()}.txt`, true);
+        xmlHttp.open(
+          "get",
+          `../../static/script/${fileName.toLowerCase()}.txt`,
+          true
+        );
         xmlHttp.onreadystatechange = () => {
           if (xmlHttp.readyState === 4 && xmlHttp.status === 200) {
-            let text = xmlHttp.responseText;
-            // console.log("text", typeof text, text);
-            let img = JSON.parse(text.slice(0, text.indexOf('}')+1).trim());          
-            // console.log('img', img);
-            let {person, user} = img;
-            Object.assign(this.dialogue, {person, user});
-            let contentArr = text.slice(text.indexOf('}')+1).trim().split(/\s*##\s*/);
-            console.log('contentArr', contentArr[1])
-            contentArr.forEach((it) => {
-              if(it !== ''){
-                let title = it.split(/.*/);
-                // console.log('title', title);
-              }
-            })
+            this.dialogueContent = this.processingData(xmlHttp.responseText);
           }
         };
         xmlHttp.send();
       }
+    },
+    processingData(data) {
+      let arr = [];
+      let img = JSON.parse(data.slice(0, data.indexOf("}") + 1).trim());
+      let { person, user } = img;
+      Object.assign(this.dialogue, { person, user, messageArr: [] });
+      let contentArr = data
+        .slice(data.indexOf("}") + 1)
+        .trim()
+        .match(/#[^#]+#/g);
+      contentArr.forEach(it => {
+        let title = it.match(/#[^-]+-/g)[0].match(/\w.+/g)[0];
+        let content = [];
+        let messageArr = it.match(/-[^#]+#/g)[0].match(/[-*].*/g);
+        messageArr.forEach(message => {
+          let type = message.includes("-") ? 0 : 1;
+          let msg = message.match(/\w.+/g)[0];
+          content.push({ type, msg });
+        });
+        arr.push({ title, content });
+      });
+      return arr;
     }
   }
 };
@@ -269,54 +277,61 @@ aside {
     padding: 20px 10px;
     width: 100%;
     max-height: 523px;
-    .message-wrapper {
+    .paragraph-wrapper {
       overflow: auto;
       &::-webkit-scrollbar {
         display: none;
       }
-      height: 100%;
-      .message {
-        @include flex(flex-start, flex-start);
-        margin-bottom: 16px;
-        &.user {
-          flex-direction: row-reverse;
+      height: 483px;
+      .paragraph {
+        .title {
+          @include fontLineColor(32px, 36px, #e45050);
+          text-align: center;
+          padding: 16px 0;
+        }
+        .message {
+          @include flex(flex-start, flex-start);
+          margin-bottom: 16px;
+          &.user {
+            flex-direction: row-reverse;
+            .avatar-wrapper {
+              margin-left: 10px;
+            }
+            .text::before {
+              left: initial;
+              right: -16px;
+              border-left-color: #e8e8e8;
+              border-right-color: transparent;
+            }
+          }
           .avatar-wrapper {
-            margin-left: 10px;
+            @include widthHeight(34px, 34px);
+            margin-right: 10px;
+            margin-top: 4px;
           }
-          .text::before {
-            left: initial;
-            right: -16px;
-            border-left-color: #e8e8e8;
-            border-right-color: transparent;
+          .text {
+            @include fontLineColor(16px, 22px, #333);
+            padding: 8px 16px 8px 12px;
+            background-color: #e8e8e8;
+            border-radius: 8px;
+            max-width: 540px;
+            position: relative;
+            &::before {
+              content: "";
+              display: block;
+              border: 8px solid transparent;
+              border-right-color: #e8e8e8;
+              position: absolute;
+              top: 20px;
+              left: -16px;
+              transform: translateY(-50%);
+            }
           }
-        }
-        .avatar-wrapper {
-          @include widthHeight(34px, 34px);
-          margin-right: 10px;
-          margin-top: 4px;
-        }
-        .text {
-          @include fontLineColor(16px, 22px, #333);
-          padding: 8px 16px 8px 12px;
-          background-color: #e8e8e8;
-          border-radius: 8px;
-          max-width: 540px;
-          position: relative;
-          &::before {
-            content: "";
-            display: block;
-            border: 8px solid transparent;
-            border-right-color: #e8e8e8;
-            position: absolute;
-            top: 20px;
-            left: -16px;
-            transform: translateY(-50%);
-          }
-        }
-        .switch {
-          margin-top: 12px;
-          .img-wrapper {
-            @include widthHeight(18px, 18px);
+          .switch {
+            margin-top: 12px;
+            .img-wrapper {
+              @include widthHeight(18px, 18px);
+            }
           }
         }
       }
