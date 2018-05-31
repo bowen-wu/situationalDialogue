@@ -91,7 +91,7 @@ export default {
   methods: {
     getFile() {},
     getFileContent(fileName) {
-      console.log("fileName", fileName.toLowerCase());
+    //   console.log("fileName", fileName.toLowerCase());
       let xmlHttp = null;
       if (window.ActiveXObject) {
         xmlHttp = new ActiveXObject("Microsoft.XMLHTTP");
@@ -101,7 +101,7 @@ export default {
       if (xmlHttp !== null) {
         xmlHttp.open(
           "get",
-          `../../static/script/${fileName.toLowerCase()}.txt`,
+          `./static/script/${fileName.toLowerCase()}.txt`,
           true
         );
         xmlHttp.onreadystatechange = () => {
