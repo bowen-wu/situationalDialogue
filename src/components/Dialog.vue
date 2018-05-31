@@ -17,7 +17,7 @@
             </div>
             <div class="tabList">
                 <ul class="tab-wrapper">
-                    <li class="tab" v-for="tab in tabList" @click="selectTab(tab)" :class={{tab.active ? 'active' : ''}}>
+                    <li class="tab" v-for="tab in tabList" @click="selectTab(tab)" :class="tab.active ? 'active' : ''">
                         <div class="img-wrapper">
                             <img :src="tab.theme" alt="" class="icon">
                         </div>
@@ -28,21 +28,20 @@
         </aside>
         <div class="content">
             <div class="header">
-                <div class="text">
+                <div v-if="!!dialogue.interlocutor" class="text">
                     {{dialogue.interlocutor}}
                 </div>
+                <div v-else class="text">Interlocutor</div>
                 <div class="online"></div>
             </div>
             <div class="container">
                 <ul class="paragraph-wrapper">
-                    <!-- {{dialogue.messageArr}}{{switchSrc}}{{dialogueContent}} -->
-                    <!-- <li class="paragraph" v-for="message in dialogue.messageArr"> -->
                     <li class="paragraph" v-for="message in dialogueContent">
                         <div class="title">{{message.title}}</div>
                         <ul>
                             <li class="message" v-for="contentItem in message.content" :class="contentItem.type === 0 ? 'user' : ''">
                                 <div class="avatar-wrapper">
-                                    <img :src="contentItem.type === 1 ? dialogue.user : dialogue.person" alt="" class="icon">
+                                    <img height="34" width="34" :src="contentItem.type === 1 ? dialogue.user : dialogue.person" alt="" class="icon">
                                 </div>
                                 <div class="text">{{contentItem.msg}}</div>
                                 <!-- <div class="switch">
@@ -90,7 +89,7 @@ export default {
     };
   },
   created() {
-    this.getFileContent(this.tabList[0].title);
+    this.selectTab(this.tabList[0]);
   },
   methods: {
     tabStatusInit() {
@@ -116,6 +115,7 @@ export default {
         xmlHttp.open(
           "get",
           `./static/script/${fileName.toLowerCase()}.txt`,
+          //   `../../static/script/${fileName.toLowerCase()}.txt`,
           true
         );
         xmlHttp.onreadystatechange = () => {
