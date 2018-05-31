@@ -9,22 +9,14 @@
 * Yes.some of the spots charges separately. ( 是的，有些景点单独售票。)
 - Well. do you have through tickets? (你们卖通票吗？)
 * Yes, sir, it's $20. (卖的，20美元。)
-<<<<<<< HEAD
 ## Forbid take pictures`
-=======
-## Forbid take pictures
->>>>>>> a58815d52353b025119c31699e42ad529d1e4af1
 - Excuse me. In this museum, you are not supposed to take pictures. (对不起，在美术馆内，你不可以照相。)
 * Is that right? I didn't know it. (是那样吗？我不知道。)
 - Will you give me your camera? we have to confiscate your film. (你的相机给我好吗？否则我就要没收你的底片了。)
 * Will you forgive me? Could you return my camera? (请原谅我好吗？请把相机还我好吗？)
 - We keep it and return it later. (我们保存它，稍后还你。)
 * Oh, I see. Then can I buy slides and picture postcards somewhere? (恩，我知道，请问我到哪里能买到幻灯片和风景明信片呢？)
-<<<<<<< HEAD
 - You can buy them at a souvenir shop near the exit '/'eksɪt/'. (你可以在出口附近的纪念品店买到。)
-=======
-- You can buy them at a souvenir shop near the exit. (你可以在出口附近的纪念品店买到。)
->>>>>>> a58815d52353b025119c31699e42ad529d1e4af1
 ## specialties
 - Is this a duty-free shop? (这是免税商店吗？)
 * Yes,sir. What can I do for you? (是的，我能帮你什么？)
@@ -48,7 +40,6 @@
 - Don't worry. I'll give you an brief introduction before the show so that you can understand it. (别担心，开演前我会为你们做一次简单的介绍，这样你们就看得懂了。)
 * Okay, Why not now? (好的，为什么不现在。)
 - Well, Beijing Opera was developed in the late 18th century from the local operas in Anhui and Hubei provinces. It is considered to be an integrated performing art with singing, dialogue, acting, and acrobatic combat. (好的，京剧是在十八世纪后期从安徽省和湖北省的地方戏剧发展而来的。它是一种吧唱念做打融为一体的演出艺术。)
-<<<<<<< HEAD
 ## wake up service
 - Good evening. This is Peter in room 310. (晚上好，我是住在310的彼得。)
 * Good evening. May I help you ? (晚上好，您有什么事？)
@@ -100,6 +91,4 @@
 - Mmm, how much is a return ticket? (喔，回来票多少钱。)
 * If you get on before 4 p.m. or after 6 p.m., there is a saver return which is 9 pounds. an ordinary return is 16 pounds. (如果您在下午4点之前或者6点之后上车，有优惠票价9英镑的当天来回票。普通来回票要16英镑。)
 - An ordinary return, please. (请给我普通来回票。)
-=======
->>>>>>> a58815d52353b025119c31699e42ad529d1e4af1
 #
