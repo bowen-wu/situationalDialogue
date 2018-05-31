@@ -17,7 +17,7 @@
             </div>
             <div class="tabList">
                 <ul class="tab-wrapper">
-                    <li class="tab" v-for="tab in tabList" @click="getFileContent(tab.title)">
+                    <li class="tab" v-for="tab in tabList" @click="selectTab(tab)" :class={{tab.active ? 'active' : ''}}>
                         <div class="img-wrapper">
                             <img :src="tab.theme" alt="" class="icon">
                         </div>
@@ -29,7 +29,7 @@
         <div class="content">
             <div class="header">
                 <div class="text">
-                    客房服务员
+                    {{dialogue.interlocutor}}
                 </div>
                 <div class="online"></div>
             </div>
@@ -69,16 +69,20 @@ export default {
         {
           theme:
             "https://images.unsplash.com/photo-1505492537188-de71a52767cb?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b4bbefaa3c24a65fcf0d20ec3872fe1a&auto=format&fit=crop&w=500&q=60",
-          title: "Hotel"
+          title: "Hotel",
+          active: false
         },
         {
           theme:
             "https://images.unsplash.com/photo-1508237866955-4439ca21b062?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c934f134692ab12b0c4c699c17109b6f&auto=format&fit=crop&w=500&q=60",
-          title: "ask-the-way"
+          title: "ask-the-way",
+          active: false
         },
         {
-          theme: "https://images.unsplash.com/photo-1519095614420-850b5671ac7f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=63ffaa8c9b9aca319b57204b5d620f56&auto=format&fit=crop&w=500&q=60",
-          title: "Tour"
+          theme:
+            "https://images.unsplash.com/photo-1519095614420-850b5671ac7f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=63ffaa8c9b9aca319b57204b5d620f56&auto=format&fit=crop&w=500&q=60",
+          title: "Tour",
+          active: false
         }
       ],
       dialogue: {},
@@ -89,9 +93,19 @@ export default {
     this.getFileContent(this.tabList[0].title);
   },
   methods: {
+    tabStatusInit() {
+      this.tabList.forEach(tab => {
+        tab.active = false;
+      });
+    },
+    selectTab(tab) {
+      this.tabStatusInit();
+      tab.active = true;
+      this.getFileContent(tab.title);
+    },
     getFile() {},
     getFileContent(fileName) {
-    //   console.log("fileName", fileName.toLowerCase());
+      //   console.log("fileName", fileName.toLowerCase());
       let xmlHttp = null;
       if (window.ActiveXObject) {
         xmlHttp = new ActiveXObject("Microsoft.XMLHTTP");
@@ -115,8 +129,13 @@ export default {
     processingData(data) {
       let arr = [];
       let img = JSON.parse(data.slice(0, data.indexOf("}") + 1).trim());
-      let { person, user } = img;
-      Object.assign(this.dialogue, { person, user, messageArr: [] });
+      let { interlocutor, person, user } = img;
+      Object.assign(this.dialogue, {
+        interlocutor,
+        person,
+        user,
+        messageArr: []
+      });
       let contentArr = data
         .slice(data.indexOf("}") + 1)
         .trim()

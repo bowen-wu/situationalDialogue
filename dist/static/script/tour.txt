@@ -1,4 +1,5 @@
 {
+    "interlocutor": ''
     "person": "https://images.unsplash.com/photo-1507262951040-577a0d0fada1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ac2e3a5b4feb86d110d1c36bc3eae6ba&auto=format&fit=crop&w=500&q=60",
     "user": "https://images.unsplash.com/photo-1471018238625-87ca40f13b31?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=673edb1b6ed5ead643c782ab7c931764&auto=format&fit=crop&w=500&q=60"
 }
