@@ -12,7 +12,7 @@
 
 * Yes, it is.
 
-- Thank you very much
+* Thank you very much
 
 ## Lesson 3 - 4 Sorry sir.
 
