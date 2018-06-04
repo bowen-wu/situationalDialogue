@@ -17,7 +17,7 @@
             </div>
             <div class="tabList">
                 <ul class="tab-wrapper">
-                    <li class="tab" v-for="tab in tabList" @click="selectTab(tab)" :class="tab.active ? 'active' : ''">
+                    <li class="tab" v-for="tab in tabList" @click="selectTab(tab)" :key="tab.id" :class="tab.active ? 'active' : ''">
                         <div class="img-wrapper">
                             <img :src="tab.theme" alt="" class="icon">
                         </div>
@@ -36,10 +36,10 @@
             </div>
             <div class="container">
                 <ul class="paragraph-wrapper">
-                    <li class="paragraph" v-for="message in dialogueContent">
+                    <li class="paragraph" v-for="message in dialogueContent" :key='message.id'>
                         <div class="title">{{message.title}}</div>
                         <ul>
-                            <li class="message" v-for="contentItem in message.content" :class="contentItem.type === 0 ? 'user' : ''">
+                            <li class="message" v-for="contentItem in message.content" :key="contentItem.id" :class="contentItem.type === 0 ? 'user' : ''">
                                 <div class="avatar-wrapper">
                                     <img height="34" width="34" :src="contentItem.type === 1 ? dialogue.user : dialogue.person" alt="" class="icon">
                                 </div>
@@ -69,18 +69,35 @@ export default {
           theme:
             "https://images.unsplash.com/photo-1505492537188-de71a52767cb?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b4bbefaa3c24a65fcf0d20ec3872fe1a&auto=format&fit=crop&w=500&q=60",
           title: "Hotel",
+          id: "0",
           active: false
         },
         {
           theme:
             "https://images.unsplash.com/photo-1508237866955-4439ca21b062?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c934f134692ab12b0c4c699c17109b6f&auto=format&fit=crop&w=500&q=60",
           title: "ask-the-way",
+          id: "1",
           active: false
         },
         {
           theme:
             "https://images.unsplash.com/photo-1519095614420-850b5671ac7f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=63ffaa8c9b9aca319b57204b5d620f56&auto=format&fit=crop&w=500&q=60",
           title: "Tour",
+          id: "2",
+          active: false
+        },
+        {
+          theme:
+            "https://images.unsplash.com/photo-1526199557860-5bbeb6cb5769?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d32cd5e48ef21cfcb3e08a9e952b4607&auto=format&fit=crop&w=500&q=60",
+          title: "New-conception",
+          id: "3",
+          active: false
+        },
+        {
+          theme:
+            "https://images.unsplash.com/photo-1445810694374-0a94739e4a03?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5f77171aed5cbcdd7ff9c3fd70aec262&auto=format&fit=crop&w=500&q=60",
+          title: "Lift-story",
+          id: "4",
           active: false
         }
       ],
@@ -142,14 +159,16 @@ export default {
         .match(/#[^#]+#/g);
       contentArr.forEach(it => {
         let title = it.match(/#[^-]+-/g)[0].match(/\w.+/g)[0];
+        let id = title;
         let content = [];
         let messageArr = it.match(/-[^#]+#/g)[0].match(/[-*].*/g);
-        messageArr.forEach(message => {
+        messageArr.forEach((message, index) => {
           let type = message.includes("-") ? 0 : 1;
           let msg = message.match(/\w.+/g)[0];
-          content.push({ type, msg });
+          let id = `lesson-${index}`
+          content.push({ type, msg, id });
         });
-        arr.push({ title, content });
+        arr.push({ title, content, id });
       });
       return arr;
     }
