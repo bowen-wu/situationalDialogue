@@ -4,7 +4,7 @@
 
 * I know. Time files! (是啊。光阴似箭。)
 
-- Friday is holiday. Let's take advantage of the long weekend. Do you want to go to New York? We could leave Thursday night and spend the whole weenend in the city. (星期五房价，让我们好好利用一下这个长周末。想不想去纽约？我们可以星期四晚上走，整个周末都待在那里。)
+- Friday is holiday. Let's take advantage of the long weekend. Do you want to go to New York? We could leave Thursday night and spend the whole weekend in the city. (星期五房价，让我们好好利用一下这个长周末。想不想去纽约？我们可以星期四晚上走，整个周末都待在那里。)
 
 * Okay. But Ｉ'd ranther go on Friday. I have to get my car fixed on Thursday. (好啊，不过我想星期五走，我星期四把车修好。)
 
@@ -18,4 +18,4 @@
 
 - We can go sightseeing during the day. In the evening we can go to a play. Do you think we can get tickets? (我们白天可以去观光。晚上就去看表演，你说我们会买到票吗？)
 
-* I don't think we stand a chance. It's hand to get tickets on weekends. Anyway, we can try. (我想我们买不到，周末买票太难了，不管怎样，还是试一下吧。)
+* I don't think we stand a chance. It's hard to get tickets on weekends. Anyway, we can try. (我想我们买不到，周末买票太难了，不管怎样，还是试一下吧。)
