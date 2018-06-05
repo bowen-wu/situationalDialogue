@@ -43,3 +43,23 @@
 * Maybe we should get them all together to play with each other some afternoon. (也许我们该找一个下午让他们聚在一起玩一玩。)
 
 - That's a great idea! (这个主意可真好。)
+
+## old friend
+
+- Oh my gosh, Rose, is that you? (哦，天啊，是 Rose 吗？)
+
+* Lina! Hey! What's up! (哦！ Lina, 最近怎么样？)
+
+- I am thrilled /θrɪld/ to see you here! What a surprise! You have changed a lot. (太高兴了在这里见到你，感觉太意外了，你变化可真大！)
+
+* Seriously /'sɪərɪəslɪ/! Heck, no! I am still the same old Rose. (变化很大吗？补补，我依然是以前的 Rose)
+
+- No way, you are much more charming /'tʃɑːmɪŋ/ now. (不，你比以前更迷人了。)
+
+* Oh really? But look at you! What a big change, wow! (哦，真的吗？但是看到你，你也是有巨大的变化呢！)
+
+- I know, we haven't seen each other for a long time. Here, this is my new phone number, call me anytime. (是，我知道，我们都很长时间没有见面了，给你，这个是我的新电话号码，随时给我打电话。)
+
+* Thanks, I'm sure I will. (谢谢，没问题，我会打给你的。)
+
+- I have to go now, see you! (嗯，好，我现在必须要走了，再见了。)
