@@ -12,7 +12,7 @@
 
 * Yes, sir, it's $20. (卖的，20美元。)
 
-## Forbid take pictures`
+## Forbid take pictures
 
 - Excuse me. In this museum, you are not supposed to take pictures. (对不起，在美术馆内，你不可以照相。)
 
@@ -166,7 +166,7 @@
 
 * At 9:36. （9:36）
 
-- What about coming back? I'd like to come back at about 7.m. (回程的时间呢？我想在晚上7点左右回来。)
+- What about coming back? I'd like to come back at about 7 p.m. (回程的时间呢？我想在晚上7点左右回来。)
 
 * There's one at 7:10 p.m. and the next one is at 7:40 p.m. (晚上7:10有一班，再下一班是7:40.)
 
