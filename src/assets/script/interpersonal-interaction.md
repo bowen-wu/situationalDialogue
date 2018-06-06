@@ -54,3 +54,55 @@
 
 - See you then. (到时见。)
 
+## the gym
+
+- Going to the gym tonight, Mary? (玛丽，今天晚上去健身房吗？)
+ 
+* Yes, Sally. I want to do some sit-ups and perhaps get in a game of pingpong. (是的，萨利。我想做仰卧起坐，也许还打乒乓球。)
+
+- That sounds like fun. Would you mind some company? (听起来很有趣，你介意有人陪伴吗？)
+
+* I'd love it. Working out is more fun with a friends. (我很乐意，跟朋友一起锻炼更有趣。)
+
+- I'll get my things and meet you there. (我去收拾东西然后到这里与你碰面。)
+
+* Good. If you happen to see Jim and Bob on the way, see if they would like a game of pingpong. (好的。如果你在路上碰巧看到吉姆和鲍勃，问问他们是否想打乒乓球。)
+
+## chinese food 
+
+- Can you manage chopsticks? (你能用筷子吗？)
+
+* Why not? see. (为什么不能？看！)
+
+- Good mastery. How do you like our Chinese food? (好功夫，你觉得我们中国食物怎么样？)
+
+* Oh, great! It's delicious. You see, I am already putting on weight. There is one thing I don't like however,MSG. (太好了，真好吃。你看，我都胖了，不过还是有一样我不喜欢的，那就是味精。)
+
+- What's wrong with MSG? It helps to bring out the taste of the food. （味精怎么了？它可以使人吃起菜来津津有味。）
+
+* According to some studies it may cause cancer. (一些研究表明，他有可能引起癌症。)
+
+- Oh, don't let that worry you. If that true, China wouldn't have such a large population. (喔，不要担心，如果是那样，中国就不会有那么多人了。)
+
+## schoolmate
+
+- Oh my gosh, Rose, is that you? (哦，天哪，是rose吗？)
+
+* Lina! hey! What's up! (哦，Lina， 最近怎么样？)
+
+- I am thrilled to see you here! What a surprise! You have changed a lot. (太高兴在这里见到你了，感觉太意外了，你变化可真大。)
+
+* Seriously? Heck, no! I am still the same old Rose. (变化很大吗？不不，我依然是以前的rose。)
+
+- No way, you are much more charming now. (不，你比以前更迷人了。)
+
+* Oh really? But look at you! What a big change, Wow!(哦，真的吗？ 但是看到你，你也有巨大的变化呢！)
+
+- I konw, we haven't seen each other for a long time. Here, this is my new phone number,call me anytime. (是，我知道，我们都很长时间没有见面了。给你，这个是我的新电话号码，随时给我打电话。)
+
+* Thanks, I'm sure i will. (谢谢，没问题，我会打给你。)
+
+- I have to go now, see you! (恩，好，我现在必须要走了，再见了！)
+
+
+
