@@ -64,3 +64,22 @@
 
 - I have to go now, see you! (嗯，好，我现在必须要走了，再见了。)
 
+## comfort friend
+
+- Charlotte, have you had your supper? (夏洛特，你吃完饭了吗？)
+
+* No, I don't want to eat anything. (没有，我什么也不想吃。)
+
+- Why? Don't you feel well? (为什么？你不舒服吗？)
+
+* I'm down in spirits. My manager jumped on me for my mistake today. (我心情不太好。我做错了事，经理今天大骂了我一顿。)
+
+- You must not feel depressed about such a trivial thing. (你不必为了这一点小事垂头丧气的。)
+
+* I think I'm too clumsy. I can do nothing well. (我觉得我太笨，什么都做不好。)
+
+- You'd better shape up if you want to get the job done. (想要做工作，你就得振作起来。)
+
+* But I doubt myself. (但是我对自己没信心。)
+
+- Cheer up! Don't let me down. We all make mistake, and that is life. (振作一点！不要让我失望，我们都会犯错，这就是生活。)
