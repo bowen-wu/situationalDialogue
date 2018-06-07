@@ -114,3 +114,52 @@
 
 * Thank you, sir.
 
+## Lesson 13 - 14 A new dress
+
+- What colour's your new dress.
+
+* It's green. Come upstairs and see it.
+
+- Thank you.
+
+* Look! Here it is!
+
+- That's a nice dress. It's very smart.
+
+* My hat's new, too.
+
+- what colour is it.
+
+* It's the same colour. It's green, too.
+
+- That is a lovely hat!
+
+## Lesson 15 - 16 Your passport, please
+
+- Are your Swedish?
+
+* No, we aren't. We are Danish
+
+- Are your friends Danish, too?
+
+* No, they aren't. They are Norwegian.
+
+- Your passport, please.
+
+* Here they are.
+
+- Are these your cases?
+
+* No, they aren't. Our cases are brown. Here they are.
+
+- Are your tourists?
+
+* Yes, we are.
+
+- Are your friends tourists too?
+
+* Yes, they are.
+
+- That's fine.
+
+* Thank you very much.
