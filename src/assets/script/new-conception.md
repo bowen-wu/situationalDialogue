@@ -10,7 +10,7 @@
 
 - Is this your handbag?
 
-* Yes, it is. Thank you very much
+* Yes, it is. Thank you very much.
 
 ## Lesson 3 - 4 Sorry sir.
 
@@ -163,3 +163,42 @@
 - That's fine.
 
 * Thank you very much.
+
+## Lesson 17 - 18 How do you do?
+
+- Come and meet our employees, Mr.Richards.
+
+* Thank you, Mr.Jackson.
+
+- This is Nicola Grey, and this is Claire Taylor.
+
+* How do you do? Those women are very hard-working. What are their jobs? 
+
+- They're keyboard operators. This is Michael Baker, and this is Jeremy Short.
+
+* How do you do? They aren't very busy! What are their jobs?
+
+- They're sales reps. They are very lazy.
+
+* Who is this young man?
+
+- This is Jim. He's our office assistant.
+
+## 19 - 20 Tired and thirsty
+
+- What's the matter, children?
+
+* We're tired...... and thirsty, Mum.
+
+- Sit down here. Are you all right now? 
+
+* No,we aren't.
+
+- Look! There's an ice cream man. Two ice creams please. Here you are, children.
+
+* Thanks, Mum. 
+
+- These ice cream are nice. Are you all right now?
+
+* Yes, we are, thank you! 
+

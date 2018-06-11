@@ -83,3 +83,21 @@
 * But I doubt myself. (但是我对自己没信心。)
 
 - Cheer up! Don't let me down. We all make mistake, and that is life. (振作一点！不要让我失望，我们都会犯错，这就是生活。)
+
+## Buy shoes
+
+- Can I help you? (请问有什么需要帮助的吗？)
+
+* I'd like a pair of sports shoes. (我想看看运动鞋。)
+
+- Well, we have all kinds of sports shoes. Could you tell me what kind of sport you usually do? (我们有各种各样的运动鞋，你能告诉我，你经常做哪种运动吗？)
+
+* I just like jogging. (我喜欢慢跑。)
+
+- Ok, then you can buy a pair of jogging shoes. Here are jogging shoes. Which pair do you like best? (好的，你可以买一双慢跑的鞋，这些就是跑鞋，你最喜欢哪一双？)
+
+* Er..., that blue pair. I need size 43, please. (恩......蓝色的那双，给我拿43码的。)
+
+- Here you are. You can try them on. (给你，你可以试穿一下。)
+
+* Very comfortable. I'll take them. (很舒服，我就买这双。)
