@@ -1,3 +1,9 @@
+## methods
+
+- Monday - Friday: Everyone create a new dialogue every day.
+
+- Weekend: Review and recite a long dialogue or essay(in PowerWord)
+
 ## md 文件编辑
 1. 奇数句前用 ` - `， 偶数句前用 ` * `
 
