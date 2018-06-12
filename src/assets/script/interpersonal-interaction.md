@@ -76,10 +76,10 @@
 
 - Good mastery /'mæstəri/. How do you like our Chinese food? (好功夫，你觉得我们中国食物怎么样？)
 
-* Oh, great! It's delicious /delicious/. You see, I am already putting on weight. There is one thing I don't like however,MSG. (太好了，真好吃。你看，我都胖了，不过还是有一样我不喜欢的，那就是味精。)
+* Oh, great! It's delicious /dɪ'lɪʃəs/. You see, I am already putting on weight. There is one thing I don't like however,MSG. (太好了，真好吃。你看，我都胖了，不过还是有一样我不喜欢的，那就是味精。)
 
 - What's wrong with MSG? It helps to bring out the taste of the food. （味精怎么了？它可以使人吃起菜来津津有味。）
 
-* According to some studies /'stʌdiz/ it may cause cancer. (一些研究表明，他有可能引起癌症。)
+* According to some studies /'stʌdiz/ it may cause cancer /'kænsɚ/. (一些研究表明，他有可能引起癌症。)
 
 - Oh, don't let that worry you. If that true, China wouldn't have such a large /lɑrdʒ/ population /ˌpɑpjuˈleɪʃn/. (喔，不要担心，如果是那样，中国就不会有那么多人了。)
