@@ -18,7 +18,7 @@
 
 - We can go sightseeing during the day. In the evening we can go to a play. Do you think we can get tickets? (我们白天可以去观光。晚上就去看表演，你说我们会买到票吗？)
 
-* I don't think we stand a chance. It's hard to get tickets on weekends. Anyway, we can try. (我想我们买不到，周末买票太难了，不管怎样，还是试一下吧。)
+* I don't think we stand a chance /tʃæns/. It's hard to get tickets on weekends. Anyway, we can try. (我想我们买不到，周末买票太难了，不管怎样，还是试一下吧。)
 
 ## pay a visit
 
@@ -30,13 +30,13 @@
 
 * Thanks. You have a beautiful place. (谢谢，你这地方真漂亮。)
 
-- I'm glad you like it. The furniture /'fɝnɪtʃɚ/ is in pretty bad condition, though. We should get rid of it. It really looks bad in this new house. (很高兴你喜欢，尽管家具很糟糕。我们应该丢掉它，新房子里放旧家具实在有些难看。)
+- I'm glad you like it. The furniture /'fɝnɪtʃɚ/ is in pretty /ˈprɪtɪ/ bad condition, though. We should get rid of it. It really looks bad in this new house. (很高兴你喜欢，尽管家具很糟糕。我们应该丢掉它，新房子里放旧家具实在有些难看。)
 
 * Don't do that. It's very comfortable. You have children, don't you? (别丢，家具挺舒适的。你有孩子吧？)
 
-- Yes, we do. Two boys and a girl. Not to mention /'mɛnʃən/ two dogs and a cat. So we have to make do with this furniture. As long as the the children are small, anyway. It doesn't make sence to replace it. (是啊。两个男孩和一个女孩。并且还有两只狗和一只猫，就是因为孩子们太小了，所以我们不得不留着这些家居。丢掉了没有多大意义。)
+- Yes, we do. Two boys and a girl. Not to mention /'mɛnʃən/ two dogs and a cat. So we have to make do with this furniture. As long as the children are small, anyway. It doesn't make sence /sɛns/ to replace it. (是啊。两个男孩和一个女孩。并且还有两只狗和一只猫，就是因为孩子们太小了，所以我们不得不留着这些家居。丢掉了没有多大意义。)
 
-* I know what you mean. Our children are hard on furniture, too. They are always jumping up and down on the sofa or spilling food on my chairs. (我懂你的意思。我家孩子也是不爱惜家具。他们总是在沙发上蹦来蹦去，要不就把饭洒在椅子上。)
+* I know what you mean. Our children are hard on furniture, too. They are always jumping up and down on the sofa or spilling /spɪl/ food on my chairs. (我懂你的意思。我家孩子也是不爱惜家具。他们总是在沙发上蹦来蹦去，要不就把饭洒在椅子上。)
 
 - They sound just like my children. (他们跟我的孩子们查不了多少。)
 
@@ -63,3 +63,69 @@
 * Thanks, I'm sure I will. (谢谢，没问题，我会打给你的。)
 
 - I have to go now, see you! (嗯，好，我现在必须要走了，再见了。)
+
+## comfort friend
+
+- Charlotte /'ʃɑːlət/, have you had your supper? (夏洛特，你吃完饭了吗？)
+
+* No, I don't want to eat anything. (没有，我什么也不想吃。)
+
+- Why? Don't you feel well? (为什么？你不舒服吗？)
+
+* I'm down in spirits /'spɪrɪt/. My manager /'mænɪdʒə/ jumped on me for my mistake today. (我心情不太好。我做错了事，经理今天大骂了我一顿。)
+
+- You must not feel depressed /dɪ'prest/ about such a trivial /'trɪvɪəl/ thing. (你不必为了这一点小事垂头丧气的。)
+
+* I think I'm too clumsy /'klʌmzɪ/. I can do nothing well. (我觉得我太笨，什么都做不好。)
+
+- You'd better shape /ʃeɪp/ up if you want to get the job done. (想要做工作，你就得振作起来。)
+
+* But I doubt /daʊt/ myself. (但是我对自己没信心。)
+
+- Cheer /tʃɪr/ up! Don't let me down. We all make mistake, and that is life. (振作一点！不要让我失望，我们都会犯错，这就是生活。)
+
+## Buy shoes
+
+- Can I help you? (请问有什么需要帮助的吗？)
+
+* I'd like a pair of sports shoes. (我想看看运动鞋。)
+
+- Well, we have all kinds of sports shoes. Could you tell me what kind of sport you usually do? (我们有各种各样的运动鞋，你能告诉我，你经常做哪种运动吗？)
+
+* I just like jogging /'dʒɑgɪŋ/. (我喜欢慢跑。)
+
+- Ok, then you can buy a pair of jogging shoes. Here are jogging shoes. Which pair do you like best? (好的，你可以买一双慢跑的鞋，这些就是跑鞋，你最喜欢哪一双？)
+
+* Er..., that blue pair. I need size 43, please. (恩......蓝色的那双，给我拿43码的。)
+
+- Here you are. You can try them on. (给你，你可以试穿一下。)
+
+* Very comfortable. I'll take them. (很舒服，我就买这双。)
+
+## Buy clothes
+
+- Hello! Can I help you? (您好！需要我帮忙吗？)
+
+* Well, I am looking for some winter /'wɪntɚ/ clothes for my fiancee /,fiən'se/. (恩，我想帮我的未婚妻买件冬衣。)
+
+- Oh, it's the high time for you purchasing /'pɝtʃəsɪŋ/ in our clothes shop. We are now having a preseason /pri:'si:zən/ sale on all our winter apparel /ə'pærəl/. (噢，现在在我们店里买衣服正是时候。现在我们的正在进行冬衣的季节性促销。)
+
+* Really? What's that? (真的吗？怎么促销？)
+
+- Every thing for winter is 20% /pɚ'sɛnt/ off. (冬衣全部打八折。)
+
+* I think my fiancee may favor /'fevɚ/ the sweater /'swɛtɚ/ in the shop window. Would you like to help me look for any skirts /skə:ts/ that go with this sweater? (我想我的未婚妻会喜欢商店橱窗的那件羊毛衫的。你能帮我挑一条和这件羊毛衫相搭配的裙子吗？)
+
+- Sure, we have both skirts and trousers /'traʊzɚz/ that would look well with the sweater. Look at this section. (当然可以，我们店里的裙子和裤子和那件羊毛衫都很搭。你可以看看这边。)
+
+* I especially /ɪˈspɛʃlɪ/ like this flowery /'flaʊəri/ skirts. My fiancee will look very elegant /'ɛləgənt/ in this. (我特别喜欢这件花纹短裙。这条裙子会让我的未婚妻看上去非常优雅)
+
+- You have a good taste. It's very much in style this year. (你的品味真好，今年特别流行这个。)
+
+* I don't think the green one fits /fɪt/ her complexion /kəm'plɛkʃən/. Do you have any skirts in light color or tan /tæn/. (我觉得绿色不适合她的皮肤，有没有裙子是浅色或者棕褐色的呢？)
+
+- Look on the rack to the right. (你可以看看右边的货架上的裙子。)
+
+* Oh, yes. I'll take this one, Can I pay by traveler's /'trævlɚ/ check? (噢，我想买这件，我可以用旅行支票支付吗？)
+
+- It's ok. (当然可以。)

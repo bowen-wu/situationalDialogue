@@ -84,25 +84,17 @@
 
 - Oh, don't let that worry you. If that true, China wouldn't have such a large population. (喔，不要担心，如果是那样，中国就不会有那么多人了。)
 
-## schoolmate
+## part-time job
 
-- Oh my gosh, Rose, is that you? (哦，天哪，是rose吗？)
+- I got a part-time job as a tutor. (我兼职做家教。)
 
-* Lina! hey! What's up! (哦，Lina， 最近怎么样？)
+* I think being a tutor is a challenging job. (我想做家教是很有挑战性的工作。)
 
-- I am thrilled to see you here! What a surprise! You have changed a lot. (太高兴在这里见到你了，感觉太意外了，你变化可真大。)
+- Yes. And gained a lot from that. (是的，我也从中学到了很多。)
 
-* Seriously? Heck, no! I am still the same old Rose. (变化很大吗？不不，我依然是以前的rose。)
+* I'd like to be a saleaman. (我想做推销员。)
 
-- No way, you are much more charming now. (不，你比以前更迷人了。)
+- Have you got the job? (你找到工作了吗？)
 
-* Oh really? But look at you! What a big change, Wow!(哦，真的吗？ 但是看到你，你也有巨大的变化呢！)
-
-- I konw, we haven't seen each other for a long time. Here, this is my new phone number,call me anytime. (是，我知道，我们都很长时间没有见面了。给你，这个是我的新电话号码，随时给我打电话。)
-
-* Thanks, I'm sure i will. (谢谢，没问题，我会打给你。)
-
-- I have to go now, see you! (恩，好，我现在必须要走了，再见了！)
-
-
+* Yes. I'll begin next week . (是的，下个星期开始工作。)
 
