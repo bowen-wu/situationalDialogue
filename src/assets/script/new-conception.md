@@ -233,3 +233,11 @@
 * Here you are.
 
 - Thanks.
+
+## 25 - 26 Mrs.Smith's kitchen
+
+- Mrs.Smith's kitchen is small. There is a refrigerator in the kitchen. The refrigerator is white. It is on the right. There is an electric cooker in the kitchen. The cooker is blue. It is on the left. There is a table in the middle of the room. There is a bottle on the table. The bottle is empty. There is a cup on the table, too. The cup is clean.
+
+## 27 - 28 Mrs.Smith's living room
+
+- Mrs.Smitch's living room is lager. There is a television in the room. The television is near the window. There are some magazines on the television. There is a table in the room. There are some newpapers on the table. There are some armchairs in the room. The armchairs are near the table. There is a stereo in the room. The stereo is near the door. There are some books on the stereo. There are some pictures in the room. The pictures are on the wall.
