@@ -83,6 +83,7 @@
 * But I doubt /daʊt/ myself. (但是我对自己没信心。)
 
 - Cheer /tʃɪr/ up! Don't let me down. We all make mistake, and that is life. (振作一点！不要让我失望，我们都会犯错，这就是生活。)
+<<<<<<< HEAD
 
 ## Buy shoes
 
@@ -129,3 +130,5 @@
 * Oh, yes. I'll take this one, Can I pay by traveler's /'trævlɚ/ check? (噢，我想买这件，我可以用旅行支票支付吗？)
 
 - It's ok. (当然可以。)
+=======
+>>>>>>> 534213d47ee4c0af4353709f0d72ea00b634148d
