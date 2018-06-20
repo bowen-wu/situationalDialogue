@@ -241,3 +241,33 @@
 ## 27 - 28 Mrs.Smith's living room
 
 - Mrs.Smitch's living room is lager. There is a television in the room. The television is near the window. There are some magazines on the television. There is a table in the room. There are some newpapers on the table. There are some armchairs in the room. The armchairs are near the table. There is a stereo in the room. The stereo is near the door. There are some books on the stereo. There are some pictures in the room. The pictures are on the wall.
+
+## Come in， Amy
+
+- Come in, Amy. Shut the door, please. This bedroom's very untidy.
+
+* What must I do, Mrs. Jones?
+
+- Open the window and air the room. Then put these clothes in the wardrobe. Then make the bed. Dust the derssing table. Then sweep the floor.
+
+## Where's Sally
+
+- Where's Sally, Jack?
+
+* She's in the garden, Jean.
+
+- What's she doing?
+
+* She's sitting under the tree.
+
+- Is Tim in the garden, too? 
+
+* Yes, he is. He's climbing the tree.
+
+- I beg your pardon? Who is climbing the tree.
+
+* Tim is.
+
+- What about the dog?
+
+* The dog's in the garden, too. It's running across the grass. It's running after a cat.
