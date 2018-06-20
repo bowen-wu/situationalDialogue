@@ -84,16 +84,3 @@
 
 - Oh, don't let that worry you. If that true, China wouldn't have such a large population. (喔，不要担心，如果是那样，中国就不会有那么多人了。)
 
-## part-time job
-
-- I got a part-time job as a tutor. (我兼职做家教。)
-
-* I think being a tutor is a challenging job. (我想做家教是很有挑战性的工作。)
-
-- Yes. And gained a lot from that. (是的，我也从中学到了很多。)
-
-* I'd like to be a saleaman. (我想做推销员。)
-
-- Have you got the job? (你找到工作了吗？)
-
-* Yes. I'll begin next week . (是的，下个星期开始工作。)

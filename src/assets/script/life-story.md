@@ -83,3 +83,17 @@
 * But I doubt /daʊt/ myself. (但是我对自己没信心。)
 
 - Cheer /tʃɪr/ up! Don't let me down. We all make mistake, and that is life. (振作一点！不要让我失望，我们都会犯错，这就是生活。)
+
+## part-time job
+
+- I got a part-time job as a tutor. (我兼职做家教。)
+
+* I think being a tutor is a challenging job. (我想做家教是很有挑战性的工作。)
+
+- Yes. And gained a lot from that. (是的，我也从中学到了很多。)
+
+* I'd like to be a saleaman. (我想做推销员。)
+
+- Have you got the job? (你找到工作了吗？)
+
+* Yes. I'll begin next week . (是的，下个星期开始工作。)

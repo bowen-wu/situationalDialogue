@@ -62,4 +62,24 @@
 
 * What a pity /'pɪti/! (真可惜！)
 
+## What kind of you want?
 
+- That dress is very pretty. Why don't you like it? (那件衣服非常漂亮，你为什么不喜欢？)
+
+* It's too loud.
+
+- We've been looking around for many hours. What on earth are you looking for? (我们已经找了几个小时了。你到底在找什么啊？)
+
+* Well, you know, those styles or colors don't suit me. (你知道那些款式或颜色不适合我。)
+
+- What style do you want. (你想要找什么样的款式？)
+
+* I want to buy a V-neck checked sweater, and it should be tight /taɪt/. (我想要买一件V领、紧身的格子毛衣。)
+
+- Oh, I see. How about the color? (哦，我知道了。需要什么颜色？)
+
+* Quiet /'kwaɪət/ color. (冷色调)
+
+- I know a shop selling /'sɛlɪŋ/ this kind of sweaters. (我知道一家商店卖这种款式的毛衣。)
+
+* Really? Let's go there. (真的？我们去那里吧。)
