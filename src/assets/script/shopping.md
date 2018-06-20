@@ -56,7 +56,7 @@
 
 - OK, I will get one for you. Here you are. (好的，我给你拿一件，给你。)
 
-* But it is too loose. Do you have this in a samller size. (但它太大了，你有小一号的吗？)
+* But it is too loose. Do you have this in a smaller size. (但它太大了，你有小一号的吗？)
 
 - Sorry, it has been sold out. (对不起，卖完了。)
 

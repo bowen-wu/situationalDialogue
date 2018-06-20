@@ -96,8 +96,7 @@
 
 - Oh , I have to try it .（我一定要去尝一尝）
 
-- Yes , it’s worth a taste . （是的，它值得一尝）
-That’s the subway station ahead .（地铁站就在前面了）
+- Yes , it’s worth a taste. That’s the subway station ahead. （是的，它值得一尝。地铁站就在前面了）
 
 - Oh , i saw it .（我看见了）
 
