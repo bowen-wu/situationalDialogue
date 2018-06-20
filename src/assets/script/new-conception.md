@@ -248,7 +248,7 @@
 
 * What must I do, Mrs. Jones?
 
-- Open the window and air the room. Then put these clothes in the wardrobe. Then make the bed. Dust the derssing table. Then sweep the floor.
+- Open the window and air the room. Then put these clothes in the wardrobe. Then make the bed. Dust the dressing table. Then sweep the floor.
 
 ## Where's Sally
 
