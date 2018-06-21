@@ -32,3 +32,21 @@
 
 - Enjoy the rest of your stay. (祝你余下的旅途愉快。)
 
+## family
+
+- How many people are there in your family,Susan? (苏珊，你家有几口人？)
+
+* Four, my father, my mother, my brother and I. We are getting on well. (四口人，爸爸，妈妈，哥哥和我，我们相处的很融洽。)
+
+- What do your parents do? (你父母是做什么的？)
+
+* My father is a professor, he is steict with us. my mother works in a hotel, and she loves us a lot. (我爸爸是教授，他对我们很严格，我妈妈在酒店工作，他很爱我们。)
+
+- How old is your brother? (你哥哥多大了？)
+
+* He is twenty five, there years older than me. he is a soldier. (我哥哥25岁，他比我大3岁，他是当兵的。)
+
+- Do you have any grandparents? (你又爷爷奶奶吗？)
+
+* My grandfather is still living at the age of 94. but he doesn't live with us. (我爷爷已经94岁了，仍然健在，但不跟我们住一起。)
+
