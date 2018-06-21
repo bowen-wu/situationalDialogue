@@ -83,3 +83,25 @@
 - I know a shop selling /'sɛlɪŋ/ this kind of sweaters. (我知道一家商店卖这种款式的毛衣。)
 
 * Really? Let's go there. (真的？我们去那里吧。)
+
+## After sale
+
+- Hello, ma'am. What can I do for you? (女士，您好，我能为您效劳吗？)
+
+* Could I have a refund /ˈrifʌnd/ on this. (我这个东西可以退钱吗？)
+
+- Is anything wrong with it? (有什么问题吗？)
+
+* Yes, this part is defective. I didn't notice it when I bought it. (是的，这个部分有瑕疵，我买的时候没有注意到。)
+
+- Oh. I'm sorry about that. May I see your sales slip /slɪp/, please. (哦，真抱歉，我可以看看您的发票吗？)
+
+* Yes, here it is. (可以，这儿)
+
+- I'm sorry, ma'am. Your refund period /'pɪrɪəd/ expired /iks'paiəd/ ten days ago. (很抱歉，女士，您的退款期限十天前就过了。)
+
+* What difference does ten days make? (差十天有什么关系？)
+
+- Well, even though you can't get refund on it, I can let you exchange it for another one or anything else. (虽然您不能退钱，但我可以让您换另外一件或任何其他东西。)
+
+* Oh, it looks like I have no choice. (哦，看来我别无选择了。)
