@@ -242,7 +242,7 @@
 
 - Mrs.Smitch's living room is lager. There is a television in the room. The television is near the window. There are some magazines on the television. There is a table in the room. There are some newpapers on the table. There are some armchairs in the room. The armchairs are near the table. There is a stereo in the room. The stereo is near the door. There are some books on the stereo. There are some pictures in the room. The pictures are on the wall.
 
-## Come in， Amy
+## 29 - 30 Come in， Amy
 
 - Come in, Amy. Shut the door, please. This bedroom's very untidy.
 
@@ -250,7 +250,7 @@
 
 - Open the window and air the room. Then put these clothes in the wardrobe. Then make the bed. Dust the dressing table. Then sweep the floor.
 
-## Where's Sally
+## 31 - 32 Where's Sally
 
 - Where's Sally, Jack?
 
@@ -271,3 +271,11 @@
 - What about the dog?
 
 * The dog's in the garden, too. It's running across the grass. It's running after a cat.
+
+## 33 - 34 A find day
+
+- It's a find day today.There are some clouds in the sky, but the sun is shining. Mr. Jones is with his family. They are walking over the bridge. There are some boats on the river. Mr. Jones and his wife are looking at them. Sally is looking at a big ship. The ship is going under the bridge. Tim is looking at an aeroplane. The aeroplane is flying over the river.
+
+## 35 - 36 Our village
+
+- This is a photograph of our village. Our village is in a valley. It's between two hills. The village is on a river. Here is another photograph of the village. My wife and I are walking along the banks of the river. We are on the left. There is a boy in the water. He is swimming across the river. Here is another photograph. This is the school building. It's beside a park. The park is on the right. Some children are coming out of the building. Some of them are going in to the park.
