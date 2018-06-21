@@ -18,7 +18,7 @@
 
 - 输入：`git add .` 回车
 
-- 输入: `git commit -m "content(script): add xxx"` 回车
+- 输入： `git commit -m "content(script): add xxx"` 回车
 
 - 输入：`git pull` 回车
 

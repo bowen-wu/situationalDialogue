@@ -80,26 +80,7 @@
 
 - What's wrong with MSG? It helps to bring out the taste of the food. （味精怎么了？它可以使人吃起菜来津津有味。）
 
-<<<<<<< HEAD
 * According to some studies it may cause cancer. (一些研究表明，他有可能引起癌症。)
 
 - Oh, don't let that worry you. If that true, China wouldn't have such a large population. (喔，不要担心，如果是那样，中国就不会有那么多人了。)
 
-## part-time job
-
-- I got a part-time job as a tutor. (我兼职做家教。)
-
-* I think being a tutor is a challenging job. (我想做家教是很有挑战性的工作。)
-
-- Yes. And gained a lot from that. (是的，我也从中学到了很多。)
-
-* I'd like to be a saleaman. (我想做推销员。)
-
-- Have you got the job? (你找到工作了吗？)
-
-* Yes. I'll begin next week . (是的，下个星期开始工作。)
-=======
-* According to some studies /'stʌdiz/ it may cause cancer /'kænsɚ/. (一些研究表明，他有可能引起癌症。)
->>>>>>> 534213d47ee4c0af4353709f0d72ea00b634148d
-
-- Oh, don't let that worry you. If that true, China wouldn't have such a large /lɑrdʒ/ population /ˌpɑpjuˈleɪʃn/. (喔，不要担心，如果是那样，中国就不会有那么多人了。)
