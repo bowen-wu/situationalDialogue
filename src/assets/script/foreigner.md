@@ -40,13 +40,31 @@
 
 - What do your parents do? (你父母是做什么的？)
 
-* My father is a professor, he is steict with us. my mother works in a hotel, and she loves us a lot. (我爸爸是教授，他对我们很严格，我妈妈在酒店工作，他很爱我们。)
+* My father is a professor, he is strict with us. my mother works in a hotel, and she loves us a lot. (我爸爸是教授，他对我们很严格，我妈妈在酒店工作，他很爱我们。)
 
 - How old is your brother? (你哥哥多大了？)
 
-* He is twenty five, there years older than me. he is a soldier. (我哥哥25岁，他比我大3岁，他是当兵的。)
+* He is twenty five, three years older than me. he is a soldier. (我哥哥25岁，他比我大3岁，他是当兵的。)
 
 - Do you have any grandparents? (你又爷爷奶奶吗？)
 
 * My grandfather is still living at the age of 94. but he doesn't live with us. (我爷爷已经94岁了，仍然健在，但不跟我们住一起。)
+
+## movies
+
+- Hi, Mary. What do you like to do in your spare time? (你好，玛丽。空闲时候你都做些什么？)
+
+* Well,I spend a lot of time watching movies. (很多时候我都在看电影。)
+
+- What a coincidence! I always watch a lot of movies too. （真巧呀，我也爱看电影。）
+
+* Oh really, Frank? What kind of movies do you like? (是吗，弗兰克，你爱看哪种类型的电影？)
+
+- Actually, I watch whichever movies there is, be it a comedy, or a suspense movie. How about you ?  (实际上，我哪种都看，喜剧片或者悬疑片都行，你呢？)
+
+* Art films are my favorite, but thrillers are cool,too. (我喜欢看艺术片，但是惊悚片也不错。)
+
+- Really impressive. These two genres are definitely different. (真的吗?这两种风格的电影可截然不同呀。)
+
+* Sure. I enjoy both of them very much. (对呀，不过两种我都喜欢。)
 
