@@ -240,7 +240,7 @@
 
 ## 27 - 28 Mrs.Smith's living room
 
-- Mrs.Smitch's living room is lager. There is a television in the room. The television is near the window. There are some magazines on the television. There is a table in the room. There are some newpapers on the table. There are some armchairs in the room. The armchairs are near the table. There is a stereo in the room. The stereo is near the door. There are some books on the stereo. There are some pictures in the room. The pictures are on the wall.
+- Mrs.Smitch's living room is large. There is a television in the room. The television is near the window. There are some magazines on the television. There is a table in the room. There are some newpapers on the table. There are some armchairs in the room. The armchairs are near the table. There is a stereo in the room. The stereo is near the door. There are some books on the stereo. There are some pictures in the room. The pictures are on the wall.
 
 ## 29 - 30 Come in， Amy
 
@@ -279,3 +279,47 @@
 ## 35 - 36 Our village
 
 - This is a photograph of our village. Our village is in a valley. It's between two hills. The village is on a river. Here is another photograph of the village. My wife and I are walking along the banks of the river. We are on the left. There is a boy in the water. He is swimming across the river. Here is another photograph. This is the school building. It's beside a park. The park is on the right. Some children are coming out of the building. Some of them are going in to the park.
+
+## 37 - 38 Making a bookcase.
+
+- You're working hard, George. What's are you doing?
+
+* I'm making a bookcase. Give me that hammer please, Dan.
+
+- Which hammer? This one?
+
+* No, not that one. The big one.
+
+- Here you are.
+
+* Thanks, Dan.
+
+- What are you going to do now, George?
+
+* I'm goint to paint it.
+
+- What color are you going to paint it.
+
+* I'm going to paint it pink.
+
+- Pink!
+
+* This bookcase isn't for me. It's for my daughter, Susan. Pink is her favourite colour.
+
+## 39 - 40 Don't drop it!
+
+- What are you going to do with that vase, Penny.
+
+* I'm going to put it on this table, Sam.
+
+- Don't do that. Give it to me.
+
+* What are you going to do with it? 
+
+- I'm going to put it here, in front of the window.
+
+* Be careful! Don't drop it! Don't put it there, Sam. Put it here, on this shelf.
+
+- There we are! It's a lovely vase.
+
+* Those flowers are lovely, too.
