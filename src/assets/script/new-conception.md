@@ -323,3 +323,41 @@
 - There we are! It's a lovely vase.
 
 * Those flowers are lovely, too.
+
+## 41 - 42 Penny's bag
+
+- Is that bag heavy, Penny?
+
+* Not very.
+
+- Here! Put it on this chair. What's in it?
+
+* A piece of cheese. A loaf of bread. A bar of soap. A bar of Chocolate. A bottle of milk. A pound of sugar. Half a pound of coffee. A quarter of a pound of tea. And a tin of tobacco.
+
+- Is that tin of tobacco for me? 
+
+* Well, it's certainly not for me!
+
+## 43 - 44 Hurry up
+
+- Can you make the tea, Sam?
+
+* Yes, of course I can, Penny. Is there any water in this kettle?
+
+- Yes, there is.
+
+* Where's the tea?
+
+- It's over there, behind the teapot. Can you see it?
+
+* I can see the teapot, but I can't see the tea.
+
+- There it is! It's in front of your!
+
+* Ah yes, I can see it now. Where are the cups?
+
+- There are some in the cupboard. Can you find them?
+
+* Yes. Here they are.
+
+- Hurry up, Sam! The kettle's boiling!
