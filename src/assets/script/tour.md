@@ -14,17 +14,6 @@
 
 - You can buy them at a souvenir shop near the exit '/'eksɪt/'. (你可以在出口附近的纪念品店买到。)
 
-## specialties
-
-- Is this a duty-free shop? (这是免税商店吗？)
-
-* Yes,sir. What can I do for you? (是的，我能帮你什么？)
-
-- I want to buy some specialties. Can you recommend me some ? (我想买些特产，你能为我推荐些吗？)
-
-* Sure. I strongly advise you to buy a bottle of perfume and a lighter. (好的，我强烈建议你买一瓶香水和一个打火机。)
-
-- Fine. They look nice. I will take both of them.(看上去不错，我两个都要了。)
 
 ## passport
 
@@ -89,23 +78,3 @@
 - We will meet at five o'clock right here. (5点还在这里见。)
 
 * I see. (知道了。)
-
-## order in hotel
-
-- Good morning, Room service. May I help you ? (早上好，客房服务部，有什么为您效劳的吗？)
-
-* I'd like to have lunch in my room. (我想在房间用午餐。)
-
-- Ok, sir. We offer two types of lunch, Chinese food and western food. Which one would you prefer? (好的，先生。我们提供中餐和西餐，您喜欢哪种？)
-
-* What does a chinese food have ? (中餐有什么？)
- 
-- Rice，egg, beef and vegetables. (有米饭，鸡蛋，牛肉和蔬菜。)
-
-* That will be fine. I'll take it. (好吧，我就要这个。)
-
-- I see. May I have your name and room number, please? (明白了，能告诉我您的姓名和房间号吗？)
-
-* Sure. it's White in Room 204. (可以，204房间的怀特。)
-
-- You order will be ready soon, thank you for calling. (您的午餐很快就好，感谢您来电。)

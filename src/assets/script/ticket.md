@@ -63,3 +63,15 @@
 - Well. do you have through tickets? (你们卖通票吗？)
 
 * Yes, sir, it's $20. (卖的，20美元。)
+
+## specialties
+
+- Is this a duty-free shop? (这是免税商店吗？)
+
+* Yes,sir. What can I do for you? (是的，我能帮你什么？)
+
+- I want to buy some specialties. Can you recommend me some ? (我想买些特产，你能为我推荐些吗？)
+
+* Sure. I strongly advise you to buy a bottle of perfume and a lighter. (好的，我强烈建议你买一瓶香水和一个打火机。)
+
+- Fine. They look nice. I will take both of them.(看上去不错，我两个都要了。)

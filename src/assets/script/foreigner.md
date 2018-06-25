@@ -1,8 +1,8 @@
-## 1
+## What brings you to London?
 
-- What brings you to London?（你为什么到伦敦来？）
+- What brings you to London? (你为什么到伦敦来？)
 
-* I'm here on business.（我是来出差的。）
+* I'm here on business.(我是来出差的。)
 
 - What do you do for a living? (你是做什么工作的？)
 
@@ -16,7 +16,7 @@
 
 * Yes. I like everything except the weather. (除了天气外，我什么都喜欢。)
 
-## 2
+## What brings you to Brighton?
 
 - What brings you to Brighton? (你为什么来布莱顿？)
 
@@ -68,17 +68,24 @@
 
 * Sure. I enjoy both of them very much. (对呀，不过两种我都喜欢。)
 
-## refuse
+## reservation　two
 
-- Hi, Johnson. Would you care to join for the picnic tomorrow? (嗨，约翰孙，明天你能参加我们的野餐活动吗？)
+- Elegance Hotel, is there anything I can do for you? (这里是雅致宾馆，有什么可以为您做的吗？)
 
-* Much to my regret. I'll have to meet my girlfriend at the airport then. (太遗憾了，明天我要去机场接我女朋友。)
+* Hello, I would like to make a reservation for four nights next week, form Tuesday to Friday. (你好，我想预定意见贵宾馆的房间。预定4天晚上，从下周二到周五。)
 
-- We'd like to invite you for our dress party tomorrow evening. are you free? (我们想邀请你们参加明晚的化装舞会，有空吗？)
+- All right, single or double room? (好的，是单人间还是双人间？)
 
-* Much as we'd like to, but we've booked up already for that time. (我们很想去，但是明晚已经有安排了。)
+* Single room with a bath room,please. I would like a room with a view of the whole city. (单人间，并配有浴室，我想要一间可以鸟瞰【kan】全城的房间)
 
-- What a pity! You can't join us. (你们不能参加，真可惜。)
+- All right. We have a single room avaliable right now. (好的。我们正好有一间单人间空着)
 
-* So sorr. Next time we'll go, thanks anyway. (实在抱歉，下次一定参加，不管怎样还是要谢谢你。)
+* What's the rate, please? (那么如何收费呢？)
 
+- 578 yuan a night, plus VAT, including air-conditioner and TV. (每晚578元，并包含增值税，还有空调和电视)
+
+* Does that include breakfast? Can I make calls on outside line? (这费用中包含早餐吗？我可以打外线吗？)
+
+- Yes, it includes English breakfast. For the phone, I am afraid you can not. (是的，它包含英式早餐，电话恐怕您不能打外线)
+
+* OK, that's fine, Could you hold it for me? (好吧，这个正好。您能帮我预留一间吗？)

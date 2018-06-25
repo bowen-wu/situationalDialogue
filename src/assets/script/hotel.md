@@ -1,4 +1,5 @@
 ## check out
+
 - Can I help you, sir? (先生，我能帮您吗？)
 
 - Yes, I'm checking out. (是的， 我要退房)
@@ -31,31 +32,10 @@
 - Hold on, please. I'm afraid we're fully booked. The only room available at the moment is a suite. (请等一等。恐怕已经全部订完了，空着的只有套房) 
 
 - Oh, I see. Thank you anyway. (知道了，谢谢。)
-
-
-## reservation　two
-
-- Elegance Hotel, is there anything I can do for you? (这里是雅致宾馆，有什么可以为您做的吗？)
-
-* Hello, I would like to make a reservation for four nights next week, form Tuesday to Friday. (你好，我想预定意见贵宾馆的房间。预定4天晚上，从下周二到周五。)
-
-- All right, single or double room? (好的，是单人间还是双人间？)
-
-* Single room with a bath room,please. I would like a room with a view of the whole city. (单人间，并配有浴室，我想要一间可以鸟瞰【kan】全城的房间)
-
-- All right. We have a single room avaliable right now. (好的。我们正好有一间单人间空着)
-
-* What's the rate, please? (那么如何收费呢？)
-
-- 578 yuan a night, plus VAT, including air-conditioner and TV. (每晚578元，并包含增值税，还有空调和电视)
-
-* Does that include breakfast? Can I make calls on outside line? (这费用中包含早餐吗？我可以打外线吗？)
-
-- Yes, it includes English breakfast. For the phone, I am afraid you can not. (是的，它包含英式早餐，电话恐怕您不能打外线)
-
-* OK, that's fine, Could you hold it for me? (好吧，这个正好。您能帮我预留一间吗？) 
+ 
 
 ## check in 
+
 - Good afternoon. Welcome to the YunShan Hotel. May I help you, sir? (下午好，欢迎来到云山饭店。需要我帮忙吗，先生？)
 
 - Yes.I'd like to check in, please. (是的，我想登记入住)
@@ -81,6 +61,7 @@
 - By Visa Card. (签证卡)
 
 ## Doorman
+
 - Good morning, Ma'am. Welcome to Grand Empire Hotel. (早上好，女士，欢迎来到 Grand Empire 酒店)
 
 - Good morning. (早上好)
@@ -106,6 +87,7 @@
 - Great， thanks for you help. (好的，麻烦你了。)
 
 ## room server
+
 - Room Server. What can I do for you? (客房服务。我能为你效劳吗？)
 
 - This is Mr. Smith form room 123. I have some shirts that need to be laundered and I'd like my suit pressed. (我是123房的 Smith, 有一些衬衫需要洗，还有西装要熨。)
@@ -120,38 +102,22 @@
 
 - The laundry will be returned to your room tomorrow before noon. (明天中午之前会帮您送回来)
 
-## other
+## order in hotel
 
-- Shall I check out now or later? (我是现在退房还是一会儿再退)
+- Good morning, Room service. May I help you ? (早上好，客房服务部，有什么为您效劳的吗？)
 
-- Can I settle my bill now? (现在可以结账吗？)
+* I'd like to have lunch in my room. (我想在房间用午餐。)
 
-- Can you give me an itenized bill? (能给我账单明细表吗？)
+- Ok, sir. We offer two types of lunch, Chinese food and western food. Which one would you prefer? (好的，先生。我们提供中餐和西餐，您喜欢哪种？)
 
-- What is this amount for? (这款项是什么费用)
+* What does a chinese food have ? (中餐有什么？)
+ 
+- Rice，egg, beef and vegetables. (有米饭，鸡蛋，牛肉和蔬菜。)
 
-- Do you take credit card? (你们这里能用信用卡支付吗？)
+* That will be fine. I'll take it. (好吧，我就要这个。)
 
-- I have a reservation for xx. (我用 xx 的名字预定了房间)
+- I see. May I have your name and room number, please? (明白了，能告诉我您的姓名和房间号吗？)
 
-- I have no reservation. Do you have a single room available? (我没有预定，请问还有单人间吗？)
+* Sure. it's White in Room 204. (可以，204房间的怀特。)
 
-- I would like to stay for ... nights, please. (我要住 ... 晚)
-
-- How much is this room per night? (每晚多少钱？)
-
-- Is breakfast included in the price? (房价包含早餐吗？)
-
-- Can I have a wake-up call, please? (你们有电话叫早服务吗？)
-
-- What is the check-out time? (退房时间是几点？)
-
-- Room service, please. (请提供客房服务。)
-
-- Is the hot water available any time? (全天提供热水么？)
-
-- What are your rates for laundry service? (洗衣服务怎么收费)
-
-- Can I borrow a hair dryer? (我可以借一下吹风机吗？)
-
-- A wake-up call, please. (请提供叫醒服务。)
+- You order will be ready soon, thank you for calling. (您的午餐很快就好，感谢您来电。)
