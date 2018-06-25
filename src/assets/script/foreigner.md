@@ -56,15 +56,15 @@
 
 * Well,I spend a lot of time watching movies. (很多时候我都在看电影。)
 
-- What a coincidence! I always watch a lot of movies too. （真巧呀，我也爱看电影。）
+- What a coincidence /ko'ɪnsɪdəns/! I always watch a lot of movies too. （真巧呀，我也爱看电影。）
 
 * Oh really, Frank? What kind of movies do you like? (是吗，弗兰克，你爱看哪种类型的电影？)
 
-- Actually, I watch whichever movies there is, be it a comedy, or a suspense movie. How about you ?  (实际上，我哪种都看，喜剧片或者悬疑片都行，你呢？)
+- Actually, I watch whichever movies there is, be it a comedy, or a suspense /sə'spɛns/ movie. How about you ?  (实际上，我哪种都看，喜剧片或者悬疑片都行，你呢？)
 
-* Art films are my favorite, but thrillers are cool,too. (我喜欢看艺术片，但是惊悚片也不错。)
+* Art films are my favorite, but thrillers /'θrɪlɚ/ are cool,too. (我喜欢看艺术片，但是惊悚片也不错。)
 
-- Really impressive. These two genres are definitely different. (真的吗?这两种风格的电影可截然不同呀。)
+- Really impressive. These two genres /'ʒɑnrə/ are definitely /'dɛfɪnətli/ different. (真的吗?这两种风格的电影可截然不同呀。)
 
 * Sure. I enjoy both of them very much. (对呀，不过两种我都喜欢。)
 
