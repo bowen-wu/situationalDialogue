@@ -20,9 +20,9 @@
 
 - You're always so careless. (你总是这么粗心。)
 
-* Oh, thank you. I am exhausted. Will you bring me a cup of tea? (哦，谢谢你。我快累死了，你能帮我倒杯茶吗？)
+* Oh, thank you. I am exhausted /ɪɡ'zɔstɪd/. Will you bring me a cup of tea? (哦，谢谢你。我快累死了，你能帮我倒杯茶吗？)
 
-- Okay. but I haven't prepared supper. (好的，但是我没准备晚饭。)
+- Okay. but I haven't prepared /prɪ'pɛrd/ supper. (好的，但是我没准备晚饭。)
 
 * So let's eat out. (那我们出去吃吧)
 
@@ -30,5 +30,5 @@
 
 * Noodles. How about you ? (面条，你呢？)
 
-- Dumplings. (饺子)
+- Dumplings /'dʌmplɪŋz/. (饺子)
 
