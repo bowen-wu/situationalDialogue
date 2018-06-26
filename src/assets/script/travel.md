@@ -8,7 +8,7 @@
 
 * Just this suitcase. (就这一个行李箱。)
 
-- Your backpack is vary big and today's flight is quite /kwaɪ/ full. I'm afraid that you will have to check your backpack too. (您这个背包很大，今天的航班满员。我恐怕您也要托运背包。)
+- Your backpack is vary big and today's flight is quite /kwaɪt/ full. I'm afraid that you will have to check your backpack too. (您这个背包很大，今天的航班满员。我恐怕您也要托运背包。)
 
 * No problem. What about this carry-on? (没问题，这件手提行李呢？)
 

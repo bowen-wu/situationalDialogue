@@ -361,3 +361,53 @@
 * Yes. Here they are.
 
 - Hurry up, Sam! The kettle's boiling!
+
+## 45 - 46 The boss's letter
+
+- Can you come here a minute please, Bob?
+
+* Yes, sir?
+
+- Where is Pamela?
+
+* She is next door. She is in her coffice, sir.
+
+- Can she type this letter for me? Ask her please.
+
+* Yes, sir. Can you type this letter for the boss please, Pamela?
+
+- Yes, of course I can. 
+
+* Here you are.
+
+- Thank you, Bob. Bob!
+
+* Yes? What's the matter
+
+- I can't type this letter. I can't read it! The boss's handwriting is terrible!
+
+## 47 - 48 A cup of coffee
+
+- Do you like coffee, Ann?
+
+* Yes, I do.
+
+- Do you want a cup?
+
+* Yes, please, Christine.
+
+- Do you want any sugar?
+
+* Yes, please.
+
+- Do you want any milk? 
+
+* No, thank you. I don't like milk in my coffee. I like black coffee. 
+
+- Do you like biscuits?
+
+* Yes. I do.
+
+- Do you want one?
+
+* Yes, please.

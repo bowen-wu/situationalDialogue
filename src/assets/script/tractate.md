@@ -20,10 +20,10 @@
 
 * In 1998, Koko appeared on the internet in what researchers called the first "interspecies chat." The gorilla used the event to communicate through an interpreter to directly /dəˈrɛktli/ answer /'ænsɚ/ questions from fans.
 
-- In 2001, Koko got publicity /pʌb'lɪsəti/ again when actor /'æktɚ/ Robin Willams went to visit her and talked about how moved he was by the experience." We shared something extraordinary - laughter /'læftɚ/," the late actor said at the time.
+- In 2001, Koko got publicity /pʌb'lɪsəti/ again when actor /'æktɚ/ Robin Willams went to visit her and talked about how moved he was by the experience /ɪk'spɪrɪəns/." We shared something extraordinary - laughter /'læftɚ/," the late actor said at the time.
 
 * Western lowland gorillas are threatened /'θrɛtnd/ in their native environment /ɪn'vaɪrənmənt/ of central Africa /ˈæfrɪkə/.
 
-- The Gorilla Foundation says it will continue to honor /ɑnɚ/ Koko by continuing /kən'tɪnjʊɪŋ/ to carry out ongoing projects. These include conservation efforts /ɛfɚts/ in Africa and expanding the Maui /'maui/ Great Ape /ep/ Sanctuary /'sæŋktʃuɛri/ in Hawaii /hə'waii:/.
+- The Gorilla Foundation says it will continue to honor /ɑnɚ/ Koko by continuing /kən'tɪnjʊɪŋ/ to carry out ongoing projects. These include conservation efforts /ɛfɚts/ in Africa and expanding /ɪk'spændɪŋ/ the Maui /'maui/ Great Ape /ep/ Sanctuary /'sæŋktʃuɛri/ in Hawaii /hə'waii:/.
 
 * In addition, the foundation says it plans to create a sign language computer app including Koko that is designed to help gorillas and children alike.
