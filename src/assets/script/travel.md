@@ -25,3 +25,29 @@
 * Thank you very much. (非常感谢。)
 
 - You're welcome. Have a nice flight. (不客气，祝您乘机愉快。)
+
+## Reservation airline ticket 
+
+- Onxiu Travel /'trævl/ Agency /'edʒənsi/. May I help you? (这里是昂秀旅行社，请问有什么能帮到您的？)
+
+* Yes, I'd like to make a plane reservation to Shanghai, China. (我想预定去中国上海的机票)
+
+- Your name, please? (请问您的姓名是？)
+
+* Jia Xiang. I'd like to leave on May 5th. (贾翔，我打算5月5日走。)
+
+- Let me see what's avaliable. Yes. Air China has a flight on May 5th at 9:15 in the morning. (让我看看还有没有机票。有的，中国航空公司5月5日上午9:15有一班飞机。)
+
+* Well, I need an economy /ɪˈkɑnəmɪ/ ticket. (恩，我需要一张经济舱的票。)
+
+- Single ticket or return ticket? (单程票还是往返票？)
+
+* Single. What's the fare /fɛr/, please? (单程票，请问票价是多少？)
+
+- Economy fare for single ticket from Beijing to Shanghai 500 yuan. (从北京到上海的经济舱单程票是500元。)
+
+* I see. Is my ticket confirmed then. (我了解了，我的机票已经核实了吗？)
+
+- Yes, your seat is confirmed on that flight. Please arrive at the airport one hour before departure /dɪ'pɑrtʃɚ/. (是的。您在那架飞机上的座位已经核实。请在飞机起飞前提前一个小时到达机场。)
+
+* Thank you. (谢谢！)
