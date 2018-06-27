@@ -32,3 +32,20 @@
 
 - Dumplings /'dʌmplɪŋz/. (饺子)
 
+## Have supper
+
+- It's time to have supper. (吃完饭啦。)
+
+* Coming. What would we have today, mom? (来啦，今天吃什么，妈妈？)
+
+- Vegatable an rice. (蔬菜和米饭。)
+
+* I don't feel like eating vegatable. (我不喜欢吃蔬菜。)
+
+- But it's good for your health. You should eat all your vegatables. (但它对你身体好。你应该把它吃完。)
+
+* I can't. (我不能。)
+
+- Close your mouth /maʊθ/ while you are eating, and no dessert /dɪ'zɝt/ until you finish your vegatables. (吃饭时不要说话，不要浪费，把蔬菜吃完。)
+
+* Please... (拜托。。。)

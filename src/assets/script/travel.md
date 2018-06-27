@@ -51,3 +51,29 @@
 - Yes, your seat is confirmed on that flight. Please arrive at the airport one hour before departure /dɪ'pɑrtʃɚ/. (是的。您在那架飞机上的座位已经核实。请在飞机起飞前提前一个小时到达机场。)
 
 * Thank you. (谢谢！)
+
+## Taxi
+
+- Taxi! (出租车)
+
+* Get on, please. Where do you want to go? (请上车，请问您要去哪里？)
+
+- Thank you! Please hurry /'hɝrɪ/! I'm late. Can I get to the Battery Park before 4? (谢谢！麻烦快点，我要迟到了，我在4点前能赶到巴特里公园吗？)
+
+* All right, Miss. I think we'll get there if there are no delays along the way. (好的，女士。我觉得如果路上不耽搁的话就能按时到达。)
+
+- How exactly /ɪɡ'zæktli/ do you figure /'fɪɡjɚ/ out the car fare? (请问如何计费？)
+
+* According to the kilometer rate, the first 5 kilometers are 4 dollars and every kilometer extra /'ɛkstrə/ costs you 50 cents /sɛnts/. (按照里程计费，前5公里起步价是4美元，五公里以上每公里50美分。)
+
+- Oh, I see! (哦，我了解了！)
+
+* Here we are, Miss. (我们到了，女士。)
+
+- Thank you. How much do I owe /o/ you? (谢谢你，我应付多少钱？)
+
+* You owe me 19 dollars. (19美元。)
+
+- That's 20 dollars. Keep the change. (这里是20美元。剩下的是小费。)
+
+* Thank you！ (谢谢！)

@@ -282,7 +282,7 @@
 
 ## 37 - 38 Making a bookcase.
 
-- You're working hard, George. What's are you doing?
+- You're working hard, George. What are you doing?
 
 * I'm making a bookcase. Give me that hammer please, Dan.
 
