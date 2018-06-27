@@ -370,7 +370,7 @@
 
 - Where is Pamela?
 
-* She is next door. She is in her coffice, sir.
+* She is next door. She is in her office, sir.
 
 - Can she type this letter for me? Ask her please.
 
