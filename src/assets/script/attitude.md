@@ -10,7 +10,7 @@
 
 - What a pity! You can't join us. (你们不能参加，真可惜。)
 
-* So sorr. Next time we'll go, thanks anyway. (实在抱歉，下次一定参加，不管怎样还是要谢谢你。)
+* So sorry. Next time we'll go, thanks anyway. (实在抱歉，下次一定参加，不管怎样还是要谢谢你。)
 
 ## after work
 

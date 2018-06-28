@@ -411,3 +411,53 @@
 - Do you want one?
 
 * Yes, please.
+
+## 49 - 50 At the butcher's
+
+- Do you want any meat today, Mrs. Bird?
+
+* Yes, please.
+
+- Do you want beef or lamb?
+
+* Beef, please. 
+
+- This lamb is vary good.
+
+* I like lamb, but my husband doesn't.
+
+- What about some steak? This is a nice piece.
+
+* Gime me that piece, please. And a pound of mince, too.
+
+- Do you want a chicken, Mrs. Bird? They're very nice.
+
+* No, thank you. My husband likes steak, but he doesn't like chicken.
+
+- To tell you the truth, Mrs. Bird. I don't like chicken either!
+
+## 51 - 52 A pleasant climate
+
+- Where do you come from?
+
+* I come from Greece.
+
+- What's the climate like in your country?
+
+* It's very pleasant.
+
+- What's the weather like in spring?
+
+* It's often windy in March. It's always warm in Apirl and May, but it rains sometimes.
+
+- What's it like in summer?
+
+* It's always hot in June, July and August. The sun shines every day.
+
+- Is it cold or warm in autumn?
+
+* It's always warm in September and October. It's often cold in November and it rains sometimes.
+
+- Is it vary cold in winter.
+
+* It's often cold in December, January and February. It snows sometimes.
