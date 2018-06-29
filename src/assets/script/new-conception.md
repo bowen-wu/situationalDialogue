@@ -415,20 +415,20 @@
 ## 49 - 50 At the butcher's
 
 - Do you want any meat today, Mrs. Bird?
-
-* Yes, please.
+                                                                                
+* Yes, please.  
 
 - Do you want beef or lamb?
 
 * Beef, please. 
 
-- This lamb is vary good.
+- This lamb is very good.
 
 * I like lamb, but my husband doesn't.
 
 - What about some steak? This is a nice piece.
 
-* Gime me that piece, please. And a pound of mince, too.
+* Give me that piece, please. And a pound of mince, too.
 
 - Do you want a chicken, Mrs. Bird? They're very nice.
 
@@ -440,24 +440,24 @@
 
 - Where do you come from?
 
-* I come from Greece.
+* I come from Greece /ɡriːs/.
 
 - What's the climate like in your country?
 
 * It's very pleasant.
 
-- What's the weather like in spring?
+- What's the weather like in spring /sprɪŋ/?
 
-* It's often windy in March. It's always warm in Apirl and May, but it rains sometimes.
+* It's often windy in March /mɑrtʃ/. It's always warm in April /'eprəl/ and May /me/, but it rains sometimes.
 
-- What's it like in summer?
+- What's it like in summer /'sʌmɚ/?
 
-* It's always hot in June, July and August. The sun shines every day.
+* It's always hot in June /dʒun/, July /dʒʊˈlaɪ/ and August /ɔˈgʌst/. The sun shines every day.
 
-- Is it cold or warm in autumn?
+- Is it cold or warm in autumn /'ɔtəm/?
 
-* It's always warm in September and October. It's often cold in November and it rains sometimes.
+* It's always warm in September /sɛp'tɛmbɚ/ and October /ɑk'tobɚ/. It's often cold in November /no'vɛmbɚ/ and it rains sometimes.
 
-- Is it vary cold in winter.
+- Is it very cold in winter /'wɪntɚ/.
 
-* It's often cold in December, January and February. It snows sometimes.
+* It's often cold in December /dɪ'sɛmbɚ/, January /'dʒænjʊ'ɛri/ and February /'fɛbrʊɛrɪ/. It snows sometimes.
