@@ -108,4 +108,30 @@
 
 ## Go to Royal Hotel
 
-- 
+- Hi, excuse me, I'm sorry to bug you, but do you know where The Royal Hotel is? (你好，打扰一下，很抱歉打扰你，请问你知道皇家酒店在哪里吗？)
+
+* Just a minute. I'm as busy as a bee right now. Ok, I'm done. What can I do for you? (稍等一下，我现在忙得团团转，好了，现在没事了，我有什么能帮你的吗？)
+
+- Well, I seem to be a little bit lost here. I'm worried that I'll never find my way. What's worse. I forgot my glasses and I'm as blind as a bat now. (我好像迷路了。我很担心自己永远找不到路。更惨的是，我找不到眼睛了，现在就和盲人似的。)
+
+* Well, keep your chin up. I'll try to help you. Where are you going? (不要灰心，我会努力帮助你，你要去哪？)
+
+- I'm try to get to The Royal Hotel. Do you know where that is? (我想去皇家酒店，你知道它在哪里嘛？)
+
+* Yes, uh, no problem. You walk down this street. You turn left at the first intersection. Walk along that road. Turn right at the corner. After that you make a lefthand turn at the first traffic light. The Royal Hotel in on the right side. (没问题，我知道，你就沿着这条街一直走，在第一个十字路口左转，继续往前走，在拐角处右转，看到第一个红绿灯左转，皇家酒店就在右手边。)
+
+- Great! Are there any landmarks near by? (太棒了！附近有什么地标建筑物吗？)
+
+* Yeah, I think so. I think the hotel is right across the street from the post office. It's as plain as the hump on a camel. You can't miss it. (是的。皇家酒店就在邮局对面，它非常显眼，你肯定能看到它！)
+
+- Oh, thst's good. I should be able to find it pretty easily then. Is it far from here? (很好，那我就能很容易找到它了，皇家酒店很远吗？)
+
+* Yeah, it's gonna take you a while if you go by foot. I'd say it's about a 30 minutes uphill walk. You have to be as strong as a lion to make it. (是的，如果你要走的话得走一会，你要走30分钟上坡路，身体非常好的人才能走完这段路。)
+
+- Oh, that would take too long and I'm kind of in a hurry. Can I take a bus here. (走路的时间太长了，我很着急，坐公交能去吗？)
+
+* Well, you could take a bus there, but you would have to transfer buses twice. A taxi would probably be a lot quicker. (可以，但是你要换乘两次，打的会快一点。)
+
+- Cool, thanks. (很好，谢谢。)
+
+* You're welcome. (不客气。)
