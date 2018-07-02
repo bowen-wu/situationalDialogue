@@ -461,3 +461,17 @@
 - Is it very cold in winter /'wɪntɚ/.
 
 * It's often cold in December /dɪ'sɛmbɚ/, January /'dʒænjʊ'ɛri/ and February /'fɛbrʊɛrɪ/. It snows sometimes.
+
+## 53 - 54 An interesting climate
+
+- Where do you come from?
+
+* I came from England.
+
+- What's the climate like in your country?
+
+* It's mild, but it's not always pleasant. The weather's often cold in North and windy in the East. It's often wet in the West and sometimes warm in the South. 
+
+- Which seasons do you like best? 
+
+* I like spring and summer. The days are long and the nights are short. The sun rises early and sets late. I don't like autumn and winter. The days are short and the nights are long. The sun rises late and sets early. Our climate is not very good, but it's certainly interesting. It's our favourite subject of conversetion.

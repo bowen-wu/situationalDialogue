@@ -77,3 +77,35 @@
 - That's 20 dollars. Keep the change. (这里是20美元。剩下的是小费。)
 
 * Thank you！ (谢谢！)
+
+## Advise
+
+- I just don't understand why we have to take the subway. Look at this place. It's modern enough. But it's far from lively. (我不明白咱们为什么要做地铁，看看这地方，很现代，但是缺乏生机。)
+
+* It's convenient. People in New York go everywhere by subway if they don't drive. (地铁很方便，纽约人不开车的话，一般会坐地铁。)
+
+- This isn't New York, Freda. We are in San Francisco. (这里不是纽约，芙蕾达，咱们现在在旧金山。)
+
+* What's the difference? (有什么区别呢？)
+
+- We haven't come here in business but for pleasure. We should go sightseeing. What can you see in the subway? Nothing! (我们来这不是为了工作，而是玩儿。我们应该去观光，在地铁里能看见什么呢？根本什么也看不到！)
+
+* What can you see from a tram or a double-decker? (你在电车或者双层巴士里可以看见什么呢？)
+
+- I can see people who are walking on the sidewalk. I can see cars driving on the streets. I can see the sun shining and beautiful flowers dancing in the wind. I can even smell the scent of flowers and the freshness of the air. (我能看见人行道上步行的行人。我能看见街上开的汽车。我能看见阳光闪烁，美丽的花儿在风中飞舞。我甚至都能闻到花香，还能闻到新鲜的空气。)
+
+- They are not as convenient as the subway. (它们没有地铁方便啊。)
+
+* You miss the point! We are not in a hurry to go anywhere. (你没抓住重点！我们并不着急去哪。)
+
+- Well, maybe you are right. We'll be more amused in a tram or a double-decker than on the subway. (好吧，也许你是对的。我们乘坐电车或双层巴士会比乘坐地铁更快乐。)
+
+* I'm so glad you can finally see things in my way. Can we leave this dull place now? (我很高兴你终于能与我看法一致。咱们现在能离开这个了无生机的地方了吗？)
+
+- What about the tickets? I've already bought them. (地铁票怎么办？我已经买好地铁票了。)
+
+* Just throw them away! (扔了吧！)
+
+## Go to Royal Hotel
+
+- 
