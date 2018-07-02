@@ -38,7 +38,7 @@
 
 * Coming. What would we have today, mom? (来啦，今天吃什么，妈妈？)
 
-- Vegatable an rice. (蔬菜和米饭。)
+- Vegatable and rice. (蔬菜和米饭。)
 
 * I don't feel like eating vegatable. (我不喜欢吃蔬菜。)
 
@@ -56,17 +56,17 @@
 
 * Yes, I know. (我知道啊。)
 
-- I think we should have a house cleaning today. What's your opinion? (今天我们应该大扫除，你觉得呢？)
+- I think we should have a house cleaning today. What's your opinion /əˈpɪnjən/? (今天我们应该大扫除，你觉得呢？)
 
 * Oh, no. We just did it last week. (哦，不要。上周才打扫过啊！)
 
-- Come on. What do you want to do? Washing clothes or cleaning the house? (拜托，那你想干嘛呢？洗衣服还是打扫房子？)
+- Come on. What do you want to do? Washing /ˈwɑʃɪŋ/ clothes or cleaning the house? (拜托，那你想干嘛呢？洗衣服还是打扫房子？)
 
 * I'd rather wash the clothes. (我宁愿洗衣服。)
 
-- Okay. Here is the laundry. (好吧。这些是脏衣服。)
+- Okay. Here is the laundry /ˈlɔndri/. (好吧。这些是脏衣服。)
 
-* Oh. My God! So much! (天哪，这么多！
+* Oh. My God! So much! (天哪，这么多！)
 
 - Don't worry. I'll help you with it later. (不要担心，稍后我会帮你的。)
 
@@ -78,12 +78,12 @@
 
 - You'd better get up or you'll be late. (你最好现在起床，否则就会迟到。)
 
-* What are you talking about? The alarm hasn't even gone off yet. (你在说什么？闹钟还没响呢。)
+* What are you talking about? The alarm /əˈlɑrm/ hasn't even gone off yet. (你在说什么？闹钟还没响呢。)
 
 - Yes, it has. It went off 30 minutes ago. (响了，它30分钟前响了。)
 
 * I must have slept right through it. (我肯定是睡过了。)
 
-- Rise and shine, sleepyhead. (起床洗漱吧，懒鬼。)
+- Rise and shine /ʃaɪn/, sleepyhead /ˈslipiˌhɛd/. (起床洗漱吧，懒鬼。)
 
 * Just let me sleep five more minutes. (让我再睡5分钟吧。)
