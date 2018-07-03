@@ -82,15 +82,15 @@
 
 - I just don't understand why we have to take the subway. Look at this place. It's modern /ˈmɑdərn/ enough. But it's far from lively. (我不明白咱们为什么要做地铁，看看这地方，很现代，但是缺乏生机。)
 
-* It's convenient. People in New York go everywhere by subway if they don't drive. (地铁很方便，纽约人不开车的话，一般会坐地铁。)
+* It's convenient /kənˈvinjənt/. People in New York go everywhere by subway if they don't drive. (地铁很方便，纽约人不开车的话，一般会坐地铁。)
 
 - This isn't New York, Freda. We are in San Francisco. (这里不是纽约，芙蕾达，咱们现在在旧金山。)
 
-* What's the difference? (有什么区别呢？)
+* What's the difference /ˈdɪfərəns/? (有什么区别呢？)
 
-- We haven't come here in business but for pleasure. We should go sightseeing. What can you see in the subway? Nothing! (我们来这不是为了工作，而是玩儿。我们应该去观光，在地铁里能看见什么呢？根本什么也看不到！)
+- We haven't come here in business but for pleasure /ˈplɛʒɚ/. We should go sightseeing. What can you see in the subway? Nothing! (我们来这不是为了工作，而是玩儿。我们应该去观光，在地铁里能看见什么呢？根本什么也看不到！)
 
-* What can you see from a tram or a double-decker /'dekə/? (你在电车或者双层巴士里可以看见什么呢？)
+* What can you see from a tram /træm/ or a double-decker /'dekə/? (你在电车或者双层巴士里可以看见什么呢？)
 
 - I can see people who are walking on the sidewalk. I can see cars driving on the streets. I can see the sun shining and beautiful flowers dancing in the wind. I can even smell the scent /sɛnt/ of flowers and the freshness /freʃnəs/ of the air. (我能看见人行道上步行的行人。我能看见街上开的汽车。我能看见阳光闪烁，美丽的花儿在风中飞舞。我甚至都能闻到花香，还能闻到新鲜的空气。)
 
@@ -98,7 +98,7 @@
 
 * You miss the point! We are not in a hurry to go anywhere. (你没抓住重点！我们并不着急去哪。)
 
-- Well, maybe you are right. We'll be more amused in a tram or a double-decker than on the subway. (好吧，也许你是对的。我们乘坐电车或双层巴士会比乘坐地铁更快乐。)
+- Well, maybe you are right. We'll be more amused /əˈmju:zd/ in a tram or a double-decker than on the subway. (好吧，也许你是对的。我们乘坐电车或双层巴士会比乘坐地铁更快乐。)
 
 * I'm so glad you can finally see things in my way. Can we leave this dull /dʌl/ place now? (我很高兴你终于能与我看法一致。咱们现在能离开这个了无生机的地方了吗？)
 
@@ -108,25 +108,25 @@
 
 ## Go to Royal Hotel
 
-- Hi, excuse me, I'm sorry to bug you, but do you know where The Royal Hotel is? (你好，打扰一下，很抱歉打扰你，请问你知道皇家酒店在哪里吗？)
+- Hi, excuse me, I'm sorry to bug you, but do you know where The Royal /'rɔiəl/ Hotel is? (你好，打扰一下，很抱歉打扰你，请问你知道皇家酒店在哪里吗？)
 
 * Just a minute. I'm as busy as a bee right now. Ok, I'm done. What can I do for you? (稍等一下，我现在忙得团团转，好了，现在没事了，我有什么能帮你的吗？)
 
-- Well, I seem to be a little bit lost here. I'm worried that I'll never find my way. What's worse /wɜrs/. I forgot my glasses and I'm as blind as a bat now. (我好像迷路了。我很担心自己永远找不到路。更惨的是，我找不到眼睛了，现在就和盲人似的。)
+- Well, I seem to be a little bit lost here. I'm worried that I'll never find my way. What's worse /wɜrs/. I forgot my glasses and I'm as blind /blaɪnd/ as a bat /bæt/ now. (我好像迷路了。我很担心自己永远找不到路。更惨的是，我找不到眼睛了，现在就和盲人似的。)
 
-* Well, keep your chin up. I'll try to help you. Where are you going? (不要灰心，我会努力帮助你，你要去哪？)
+* Well, keep your chin /tʃɪn/ up. I'll try to help you. Where are you going? (不要灰心，我会努力帮助你，你要去哪？)
 
 - I'm try to get to The Royal Hotel. Do you know where that is? (我想去皇家酒店，你知道它在哪里嘛？)
 
-* Yes, uh, no problem. You walk down this street. You turn left at the first intersection. Walk along that road. Turn right at the corner /ˈkɔrnə(r)/. After that you make a lefthand turn at the first traffic light. The Royal Hotel in on the right side. (没问题，我知道，你就沿着这条街一直走，在第一个十字路口左转，继续往前走，在拐角处右转，看到第一个红绿灯左转，皇家酒店就在右手边。)
+* Yes, uh, no problem. You walk down this street. You turn left at the first intersection. Walk along that road. Turn right at the corner /ˈkɔrnə(r)/. After that you make a lefthand turn at the first traffic /ˈtræfɪk/ light. The Royal Hotel in on the right side. (没问题，我知道，你就沿着这条街一直走，在第一个十字路口左转，继续往前走，在拐角处右转，看到第一个红绿灯左转，皇家酒店就在右手边。)
 
-- Great! Are there any landmarks near by? (太棒了！附近有什么地标建筑物吗？)
+- Great! Are there any landmarks /'lændmɑ:ks/ near by? (太棒了！附近有什么地标建筑物吗？)
 
-* Yeah, I think so. I think the hotel is right across the street from the post office. It's as plain /plen/ as the hump on a camel /ˈkæməl/. You can't miss it. (是的。皇家酒店就在邮局对面，它非常显眼，你肯定能看到它！)
+* Yeah, I think so. I think the hotel is right across the street from the post office. It's as plain /plen/ as the hump /hʌmp/ on a camel /ˈkæməl/. You can't miss it. (是的。皇家酒店就在邮局对面，它非常显眼，你肯定能看到它！)
 
-- Oh, thst's good. I should be able to find it pretty easily then. Is it far from here? (很好，那我就能很容易找到它了，皇家酒店很远吗？)
+- Oh, thst's good. I should be able to find it pretty /ˈprɪti/ easily then. Is it far from here? (很好，那我就能很容易找到它了，皇家酒店很远吗？)
 
-* Yeah, it's gonna take you a while if you go by foot. I'd say it's about a 30 minutes uphill walk. You have to be as strong as a lion /ˈlaɪən/ to make it. (是的，如果你要走的话得走一会，你要走30分钟上坡路，身体非常好的人才能走完这段路。)
+* Yeah, it's gonna /ˈgɔ:nə/ take you a while if you go by foot. I'd say it's about a 30 minutes uphill walk. You have to be as strong as a lion /ˈlaɪən/ to make it. (是的，如果你要走的话得走一会，你要走30分钟上坡路，身体非常好的人才能走完这段路。)
 
 - Oh, that would take too long and I'm kind of in a hurry. Can I take a bus here. (走路的时间太长了，我很着急，坐公交能去吗？)
 
