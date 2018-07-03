@@ -415,7 +415,7 @@
 ## 49 - 50 At the butcher's
 
 - Do you want any meat today, Mrs. Bird?
-                                                                                
+
 * Yes, please.  
 
 - Do you want beef or lamb?
@@ -475,3 +475,11 @@
 - Which seasons do you like best? 
 
 * I like spring and summer. The days are long and the nights are short. The sun rises early and sets late. I don't like autumn and winter. The days are short and the nights are long. The sun rises late and sets early. Our climate is not very good, but it's certainly interesting. It's our favourite subject of conversetion.
+
+## 55 - 56 The Sawyer family
+
+- The Sawyer live at 87 King Street. In the morning, Mr. Sawyer goes to work and the children go to school. Their father take them to school every day. Mrs. Sawyer stays at home every day. She does the housework. She always eats her lunch at noon. In the afternoon, she usually sees her friends. They often drink tea together. In the evening, the children come home from school. They arrive home early. Mr. Sawyer comes home from work. He arrives home late. At night, the children always do their homework. Then they go to bed. Mr. Sawyer usually reads his newspaper., but sometimes he and his wife watch televition.
+
+## 57 - 58 An unusual day
+
+- It's eight o'clock. The children go to school by car every day, but today, thet are going to school on foot. It's ten o'click, Mrs. Sawyer usually stays at home in the morning, but this morning, she is going to the shops. It's four o'click. In the afternoon, Mrs Sawyer usually drinks tea in the living room. But this afternoon, she is drinking tea in the garden. It's six o'clock. In the evening, the children usually do their homework, but this evenging , they are not do their homework. At the moment, they are playing in the garden. It's nine o'clock. Mr. Sawyer usually reads his newspaper at night. But he's not reading his newspaper tonight. At the moment, he's reading an interesting book.
