@@ -482,4 +482,36 @@
 
 ## 57 - 58 An unusual day
 
-- It's eight o'clock. The children go to school by car every day, but today, thet are going to school on foot. It's ten o'click, Mrs. Sawyer usually stays at home in the morning, but this morning, she is going to the shops. It's four o'click. In the afternoon, Mrs Sawyer usually drinks tea in the living room. But this afternoon, she is drinking tea in the garden. It's six o'clock. In the evening, the children usually do their homework, but this evenging , they are not do their homework. At the moment, they are playing in the garden. It's nine o'clock. Mr. Sawyer usually reads his newspaper at night. But he's not reading his newspaper tonight. At the moment, he's reading an interesting book.
+- It's eight o'clock. The children go to school by car every day, but today, thet are going to school on foot. 
+
+* It's ten o'click, Mrs. Sawyer usually stays at home in the morning, but this morning, she is going to the shops. 
+
+- It's four o'click. In the afternoon, Mrs Sawyer usually drinks tea in the living room. But this afternoon, she is drinking tea in the garden. 
+
+* It's six o'clock. In the evening, the children usually do their homework, but this evenging , they are not do their homework. At the moment, they are playing in the garden. 
+
+- It's nine o'clock. Mr. Sawyer usually reads his newspaper at night. But he's not reading his newspaper tonight. At the moment, he's reading an interesting book.
+
+## 59 - 60 Is that all
+
+- I want some enevlopes, please.
+
+* Do you want the large size or the small size?
+
+- The large size, please. Do you want have any writing paper?
+
+* Yes, we do. I don't have any small pads. I only have large one. Do you want a pad?
+
+- Yes, please. And I want some glue. And I want a large box of chalk, too.
+
+* I only have small boxes. Do you want one?
+
+- No, thank you.
+
+* Is that all?
+
+- That's all, thank you.
+
+* What else do you want?
+
+- I want my change.
